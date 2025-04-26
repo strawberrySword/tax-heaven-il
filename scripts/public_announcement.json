@@ -1,0 +1,5238 @@
+[
+    {
+        "Settlement Symbol": 473,
+        "Settlement Name": "\u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df",
+        "Determining Score": 50,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.95803,
+            "lng": 35.171969
+        }
+    },
+    {
+        "Settlement Symbol": 1342,
+        "Settlement Name": "\u05d0\u05d1\u05d5 \u05e7\u05d5\u05e8\u05d9\u05e0\u05d0\u05ea (\u05d9\u05d9\u05e9\u05d5\u05d1)",
+        "Determining Score": 75,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.103115,
+            "lng": 34.952003
+        }
+    },
+    {
+        "Settlement Symbol": 1375,
+        "Settlement Name": "\u05d0\u05d1\u05d5 \u05ea\u05dc\u05d5\u05dc",
+        "Determining Score": 75,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.142612,
+            "lng": 34.913514
+        }
+    },
+    {
+        "Settlement Symbol": 1115,
+        "Settlement Name": "\u05d0\u05d1\u05d9\u05d1\u05d9\u05dd",
+        "Determining Score": 76,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.089381,
+            "lng": 35.470338
+        }
+    },
+    {
+        "Settlement Symbol": 1220,
+        "Settlement Name": "\u05d0\u05d1\u05d9\u05e8\u05d9\u05dd",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.038086,
+            "lng": 35.286044
+        }
+    },
+    {
+        "Settlement Symbol": 1081,
+        "Settlement Name": "\u05d0\u05d1\u05df \u05de\u05e0\u05d7\u05dd",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.075143,
+            "lng": 35.295219
+        }
+    },
+    {
+        "Settlement Symbol": 400,
+        "Settlement Name": "\u05d0\u05d1\u05df \u05e9\u05de\u05d5\u05d0\u05dc",
+        "Determining Score": 33,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.576429,
+            "lng": 34.762963
+        }
+    },
+    {
+        "Settlement Symbol": 4011,
+        "Settlement Name": "\u05d0\u05d1\u05e0\u05d9 \u05d0\u05d9\u05ea\u05df",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.824808,
+            "lng": 35.765777
+        }
+    },
+    {
+        "Settlement Symbol": 3786,
+        "Settlement Name": "\u05d0\u05d1\u05e0\u05ea",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.679039,
+            "lng": 35.436945
+        }
+    },
+    {
+        "Settlement Symbol": 1311,
+        "Settlement Name": "\u05d0\u05d1\u05e9\u05dc\u05d5\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.195397,
+            "lng": 34.3312
+        }
+    },
+    {
+        "Settlement Symbol": 3759,
+        "Settlement Name": "\u05d0\u05d3\u05d5\u05e8\u05d4",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.552219,
+            "lng": 35.017634
+        }
+    },
+    {
+        "Settlement Symbol": 1068,
+        "Settlement Name": "\u05d0\u05d3\u05de\u05d9\u05ea",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.078842,
+            "lng": 35.20951
+        }
+    },
+    {
+        "Settlement Symbol": 4010,
+        "Settlement Name": "\u05d0\u05d5\u05d3\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.1933716,
+            "lng": 35.7495651
+        }
+    },
+    {
+        "Settlement Symbol": 1046,
+        "Settlement Name": "\u05d0\u05d5\u05d4\u05d3",
+        "Determining Score": 45,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.238436,
+            "lng": 34.431893
+        }
+    },
+    {
+        "Settlement Symbol": 1358,
+        "Settlement Name": "\u05d0\u05d5\u05dd \u05d1\u05d8\u05d9\u05df",
+        "Determining Score": 67,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.27674369999999,
+            "lng": 34.8829215
+        }
+    },
+    {
+        "Settlement Symbol": 31,
+        "Settlement Name": "\u05d0\u05d5\u05e4\u05e7\u05d9\u05dd",
+        "Determining Score": 60,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 31.3067541,
+            "lng": 34.6197998
+        }
+    },
+    {
+        "Settlement Symbol": 1294,
+        "Settlement Name": "\u05d0\u05d5\u05e8 \u05d4\u05d2\u05e0\u05d5\u05d6",
+        "Determining Score": 97,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.005183,
+            "lng": 35.446736
+        }
+    },
+    {
+        "Settlement Symbol": 67,
+        "Settlement Name": "\u05d0\u05d5\u05e8 \u05d4\u05e0\u05e8",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.556197,
+            "lng": 34.602305
+        }
+    },
+    {
+        "Settlement Symbol": 4013,
+        "Settlement Name": "\u05d0\u05d5\u05e8\u05d8\u05dc",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.086236,
+            "lng": 35.758661
+        }
+    },
+    {
+        "Settlement Symbol": 403,
+        "Settlement Name": "\u05d0\u05d5\u05e8\u05d9\u05dd",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.304094,
+            "lng": 34.524868
+        }
+    },
+    {
+        "Settlement Symbol": 821,
+        "Settlement Name": "\u05d0\u05d7\u05d5\u05d6\u05dd",
+        "Determining Score": 27,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.552682,
+            "lng": 34.770151
+        }
+    },
+    {
+        "Settlement Symbol": 785,
+        "Settlement Name": "\u05d0\u05d7\u05d9\u05d4\u05d5\u05d3",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.907405,
+            "lng": 35.171715
+        }
+    },
+    {
+        "Settlement Symbol": 338,
+        "Settlement Name": "\u05d0\u05d9\u05d1\u05d9\u05dd",
+        "Determining Score": 82,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.533597,
+            "lng": 34.609697
+        }
+    },
+    {
+        "Settlement Symbol": 77,
+        "Settlement Name": "\u05d0\u05d9\u05d9\u05dc\u05ea \u05d4\u05e9\u05d7\u05e8",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 33.021115,
+            "lng": 35.576732
+        }
+    },
+    {
+        "Settlement Symbol": 294,
+        "Settlement Name": "\u05d0\u05d9\u05dc\u05d5\u05df",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.062526,
+            "lng": 35.219162
+        }
+    },
+    {
+        "Settlement Symbol": 1126,
+        "Settlement Name": "\u05d0\u05d9\u05dc\u05d5\u05ea",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 29.580548,
+            "lng": 34.963023
+        }
+    },
+    {
+        "Settlement Symbol": 37,
+        "Settlement Name": "\u05d0\u05d9\u05ea\u05df",
+        "Determining Score": 33,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.572213,
+            "lng": 34.747909
+        }
+    },
+    {
+        "Settlement Symbol": 4003,
+        "Settlement Name": "\u05d0\u05dc -\u05e8\u05d5\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.180519,
+            "lng": 35.770095
+        }
+    },
+    {
+        "Settlement Symbol": 1359,
+        "Settlement Name": "\u05d0\u05dc \u05e1\u05d9\u05d9\u05d3",
+        "Determining Score": 67,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.281719,
+            "lng": 34.916298
+        }
+    },
+    {
+        "Settlement Symbol": 330,
+        "Settlement Name": "\u05d0\u05dc\u05d5\u05de\u05d5\u05ea",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.706628,
+            "lng": 35.546088
+        }
+    },
+    {
+        "Settlement Symbol": 4017,
+        "Settlement Name": "\u05d0\u05dc\u05d5\u05e0\u05d9 \u05d4\u05d1\u05e9\u05df",
+        "Determining Score": 86,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.044087,
+            "lng": 35.838507
+        }
+    },
+    {
+        "Settlement Symbol": 4002,
+        "Settlement Name": "\u05d0\u05dc\u05d9-\u05e2\u05d3",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.806583,
+            "lng": 35.73657499999999
+        }
+    },
+    {
+        "Settlement Symbol": 1248,
+        "Settlement Name": "\u05d0\u05dc\u05d9\u05e4\u05d6",
+        "Determining Score": 86,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 29.79624799999999,
+            "lng": 35.012094
+        }
+    },
+    {
+        "Settlement Symbol": 730,
+        "Settlement Name": "\u05d0\u05dc\u05d9\u05e4\u05dc\u05d8",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.947834,
+            "lng": 35.548516
+        }
+    },
+    {
+        "Settlement Symbol": 1125,
+        "Settlement Name": "\u05d0\u05dc\u05de\u05d2\u05d5\u05e8",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.912709,
+            "lng": 35.60231
+        }
+    },
+    {
+        "Settlement Symbol": 603,
+        "Settlement Name": "\u05d0\u05dc\u05e7\u05d5\u05e9",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.034294,
+            "lng": 35.326348
+        }
+    },
+    {
+        "Settlement Symbol": 1064,
+        "Settlement Name": "\u05d0\u05de\u05d9\u05e8\u05d9\u05dd",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.937351,
+            "lng": 35.45036500000001
+        }
+    },
+    {
+        "Settlement Symbol": 1253,
+        "Settlement Name": "\u05d0\u05de\u05e0\u05d5\u05df",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.904989,
+            "lng": 35.571136
+        }
+    },
+    {
+        "Settlement Symbol": 23,
+        "Settlement Name": "\u05d0\u05de\u05e6\u05d9\u05d4",
+        "Determining Score": 33,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.531176,
+            "lng": 34.914463
+        }
+    },
+    {
+        "Settlement Symbol": 4012,
+        "Settlement Name": "\u05d0\u05e0\u05d9\u05e2\u05dd",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.956638,
+            "lng": 35.739718
+        }
+    },
+    {
+        "Settlement Symbol": 3754,
+        "Settlement Name": "\u05d0\u05e1\u05e4\u05e8",
+        "Determining Score": 64,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.586152,
+            "lng": 35.187594
+        }
+    },
+    {
+        "Settlement Symbol": 4301,
+        "Settlement Name": "\u05d0\u05e4\u05d9\u05e7",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.779428,
+            "lng": 35.702994
+        }
+    },
+    {
+        "Settlement Symbol": 176,
+        "Settlement Name": "\u05d0\u05e4\u05d9\u05e7\u05d9\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.680564,
+            "lng": 35.57773
+        }
+    },
+    {
+        "Settlement Symbol": 3598,
+        "Settlement Name": "\u05d0\u05e8\u05d2\u05de\u05df",
+        "Determining Score": 62,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.17334,
+            "lng": 35.522285
+        }
+    },
+    {
+        "Settlement Symbol": 714,
+        "Settlement Name": "\u05d0\u05e8\u05d6",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.55984,
+            "lng": 34.564889
+        }
+    },
+    {
+        "Settlement Symbol": 71,
+        "Settlement Name": "\u05d0\u05e9\u05d1\u05d5\u05dc",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.44551599999999,
+            "lng": 34.666654
+        }
+    },
+    {
+        "Settlement Symbol": 1276,
+        "Settlement Name": "\u05d0\u05e9\u05d1\u05dc",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.876984,
+            "lng": 35.30601
+        }
+    },
+    {
+        "Settlement Symbol": 199,
+        "Settlement Name": "\u05d0\u05e9\u05d3\u05d5\u05ea \u05d9\u05e2\u05e7\u05d1 (\u05d0\u05d9\u05d7\u05d5\u05d3)",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.65877,
+            "lng": 35.579637
+        }
+    },
+    {
+        "Settlement Symbol": 188,
+        "Settlement Name": "\u05d0\u05e9\u05d3\u05d5\u05ea \u05d9\u05e2\u05e7\u05d1 (\u05de\u05d0\u05d5\u05d7\u05d3)",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.664808,
+            "lng": 35.582769
+        }
+    },
+    {
+        "Settlement Symbol": 1188,
+        "Settlement Name": "\u05d0\u05e9\u05d7\u05e8",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.885084,
+            "lng": 35.299622
+        }
+    },
+    {
+        "Settlement Symbol": 3722,
+        "Settlement Name": "\u05d0\u05e9\u05db\u05d5\u05dc\u05d5\u05ea",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.391171,
+            "lng": 34.904856
+        }
+    },
+    {
+        "Settlement Symbol": 2021,
+        "Settlement Name": "\u05d0\u05e9\u05dc \u05d4\u05e0\u05e9\u05d9\u05d0",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.326828,
+            "lng": 34.697497
+        }
+    },
+    {
+        "Settlement Symbol": 1152,
+        "Settlement Name": "\u05d0\u05e9\u05dc\u05d9\u05dd",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 30.964245,
+            "lng": 34.699674
+        }
+    },
+    {
+        "Settlement Symbol": 1256,
+        "Settlement Name": "\u05d0\u05e9\u05e8\u05ea",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.971645,
+            "lng": 35.1557
+        }
+    },
+    {
+        "Settlement Symbol": 21,
+        "Settlement Name": "\u05d1\u05d0\u05e8 \u05d0\u05d5\u05e8\u05d4",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 29.710166,
+            "lng": 34.987218
+        }
+    },
+    {
+        "Settlement Symbol": 1278,
+        "Settlement Name": "\u05d1\u05d0\u05e8 \u05de\u05d9\u05dc\u05db\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.934112,
+            "lng": 34.405643
+        }
+    },
+    {
+        "Settlement Symbol": 399,
+        "Settlement Name": "\u05d1\u05d0\u05e8\u05d9",
+        "Determining Score": 93,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.424513,
+            "lng": 34.492567
+        }
+    },
+    {
+        "Settlement Symbol": 559,
+        "Settlement Name": "\u05d1\u05d5\u05e1\u05ea\u05df \u05d4\u05d2\u05dc\u05d9\u05dc",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.948636,
+            "lng": 35.08068799999999
+        }
+    },
+    {
+        "Settlement Symbol": 4001,
+        "Settlement Name": "\u05d1\u05d5\u05e7\u05e2\u05d0\u05ea\u05d0",
+        "Determining Score": 93,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.2026572,
+            "lng": 35.7767723
+        }
+    },
+    {
+        "Settlement Symbol": 762,
+        "Settlement Name": "\u05d1\u05d8\u05d7\u05d4",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.333869,
+            "lng": 34.634318
+        }
+    },
+    {
+        "Settlement Symbol": 1348,
+        "Settlement Name": "\u05d1\u05d9\u05e8 \u05d4\u05d3\u05d0\u05d2'",
+        "Determining Score": 75,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.02316,
+            "lng": 34.709138
+        }
+    },
+    {
+        "Settlement Symbol": 368,
+        "Settlement Name": "\u05d1\u05d9\u05e8\u05d9\u05d9\u05d4",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.978108,
+            "lng": 35.503096
+        }
+    },
+    {
+        "Settlement Symbol": 480,
+        "Settlement Name": "\u05d1\u05d9\u05ea \u05d2'\u05df",
+        "Determining Score": 86,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 32.9651552,
+            "lng": 35.37935360000001
+        }
+    },
+    {
+        "Settlement Symbol": 723,
+        "Settlement Name": "\u05d1\u05d9\u05ea \u05d4\u05d2\u05d3\u05d9",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.422839,
+            "lng": 34.607878
+        }
+    },
+    {
+        "Settlement Symbol": 322,
+        "Settlement Name": "\u05d1\u05d9\u05ea \u05d4\u05dc\u05dc",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.208782,
+            "lng": 35.606515
+        }
+    },
+    {
+        "Settlement Symbol": 572,
+        "Settlement Name": "\u05d1\u05d9\u05ea \u05d4\u05e2\u05de\u05e7",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.971014,
+            "lng": 35.145305
+        }
+    },
+    {
+        "Settlement Symbol": 3645,
+        "Settlement Name": "\u05d1\u05d9\u05ea \u05d4\u05e2\u05e8\u05d1\u05d4",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.807762,
+            "lng": 35.476411
+        }
+    },
+    {
+        "Settlement Symbol": 143,
+        "Settlement Name": "\u05d1\u05d9\u05ea \u05d6\u05e8\u05e2",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.689296,
+            "lng": 35.574062
+        }
+    },
+    {
+        "Settlement Symbol": 265,
+        "Settlement Name": "\u05d1\u05d9\u05ea \u05d9\u05d5\u05e1\u05e3",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.558698,
+            "lng": 35.55277299999999
+        }
+    },
+    {
+        "Settlement Symbol": 598,
+        "Settlement Name": "\u05d1\u05d9\u05ea \u05e7\u05de\u05d4",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.446566,
+            "lng": 34.762248
+        }
+    },
+    {
+        "Settlement Symbol": 9200,
+        "Settlement Name": "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df",
+        "Determining Score": 68,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.497103,
+            "lng": 35.497336
+        }
+    },
+    {
+        "Settlement Symbol": 712,
+        "Settlement Name": "\u05d1\u05df \u05e2\u05de\u05d9",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 33.005369,
+            "lng": 35.122218
+        }
+    },
+    {
+        "Settlement Symbol": 4015,
+        "Settlement Name": "\u05d1\u05e0\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1363,
+        "Settlement Name": "\u05d1\u05e0\u05d9 \u05e0\u05e6\u05e8\u05d9\u05dd",
+        "Determining Score": 86,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.143513,
+            "lng": 34.316403
+        }
+    },
+    {
+        "Settlement Symbol": 483,
+        "Settlement Name": "\u05d1\u05e2\u05e0\u05d4",
+        "Determining Score": 54,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.929538,
+            "lng": 35.27191699999999
+        }
+    },
+    {
+        "Settlement Symbol": 589,
+        "Settlement Name": "\u05d1\u05e6\u05ea",
+        "Determining Score": 57,
+        "Rate 2024": 0.12000000000000001,
+        "Ceiling 2024": 186600,
+        "location": {
+            "lat": 33.070047,
+            "lng": 35.132636
+        }
+    },
+    {
+        "Settlement Symbol": 1191,
+        "Settlement Name": "\u05d1\u05e8 \u05d9\u05d5\u05d7\u05d0\u05d9",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.997704,
+            "lng": 35.44819
+        }
+    },
+    {
+        "Settlement Symbol": 428,
+        "Settlement Name": "\u05d1\u05e8\u05d5\u05e8 \u05d7\u05d9\u05dc",
+        "Determining Score": 22,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.55698499999999,
+            "lng": 34.646547
+        }
+    },
+    {
+        "Settlement Symbol": 2060,
+        "Settlement Name": "\u05d1\u05e8\u05d5\u05e9",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 667,
+        "Settlement Name": "\u05d1\u05e8\u05e2\u05dd",
+        "Determining Score": 97,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.058979,
+            "lng": 35.433235
+        }
+    },
+    {
+        "Settlement Symbol": 1292,
+        "Settlement Name": "\u05d2'\u05d3\u05d9\u05d9\u05d3\u05d4-\u05de\u05db\u05e8",
+        "Determining Score": 50,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.928656,
+            "lng": 35.150573
+        }
+    },
+    {
+        "Settlement Symbol": 485,
+        "Settlement Name": "\u05d2'\u05d5\u05dc\u05e1",
+        "Determining Score": 33,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 47.8990111,
+            "lng": 16.9093319
+        }
+    },
+    {
+        "Settlement Symbol": 487,
+        "Settlement Name": "\u05d2'\u05e9 (\u05d2\u05d5\u05e9 \u05d7\u05dc\u05d1)",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.021266,
+            "lng": 35.447949
+        }
+    },
+    {
+        "Settlement Symbol": 352,
+        "Settlement Name": "\u05d2\u05d1\u05d5\u05dc\u05d5\u05ea",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.211168,
+            "lng": 34.466199
+        }
+    },
+    {
+        "Settlement Symbol": 424,
+        "Settlement Name": "\u05d2\u05d1\u05d9\u05dd",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.506273,
+            "lng": 34.598949
+        }
+    },
+    {
+        "Settlement Symbol": 2014,
+        "Settlement Name": "\u05d2\u05d1\u05e2\u05d5\u05dc\u05d9\u05dd",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.397604,
+            "lng": 34.593821
+        }
+    },
+    {
+        "Settlement Symbol": 1344,
+        "Settlement Name": "\u05d2\u05d1\u05e2\u05d5\u05ea \u05d1\u05e8",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.357209,
+            "lng": 34.755541
+        }
+    },
+    {
+        "Settlement Symbol": 4021,
+        "Settlement Name": "\u05d2\u05d1\u05e2\u05ea \u05d9\u05d5\u05d0\u05d1",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.801217,
+            "lng": 35.680911
+        }
+    },
+    {
+        "Settlement Symbol": 342,
+        "Settlement Name": "\u05d2\u05d1\u05e8\u05e2\u05dd",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.591461,
+            "lng": 34.612156
+        }
+    },
+    {
+        "Settlement Symbol": 35,
+        "Settlement Name": "\u05d2\u05d3\u05d5\u05ea",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 33.018208,
+            "lng": 35.619547
+        }
+    },
+    {
+        "Settlement Symbol": 852,
+        "Settlement Name": "\u05d2\u05d5\u05e0\u05df",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 33.1240353,
+            "lng": 35.6461519
+        }
+    },
+    {
+        "Settlement Symbol": 755,
+        "Settlement Name": "\u05d2\u05d5\u05e8\u05df",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.055566,
+            "lng": 35.233619
+        }
+    },
+    {
+        "Settlement Symbol": 1219,
+        "Settlement Name": "\u05d2\u05d5\u05e8\u05e0\u05d5\u05ea \u05d4\u05d2\u05dc\u05d9\u05dc",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.059286,
+            "lng": 35.24967
+        }
+    },
+    {
+        "Settlement Symbol": 1204,
+        "Settlement Name": "\u05d2\u05d9\u05dc\u05d5\u05df",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.904338,
+            "lng": 35.232191
+        }
+    },
+    {
+        "Settlement Symbol": 736,
+        "Settlement Name": "\u05d2\u05d9\u05dc\u05ea",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.326321,
+            "lng": 34.648934
+        }
+    },
+    {
+        "Settlement Symbol": 262,
+        "Settlement Name": "\u05d2\u05d9\u05e0\u05d5\u05e1\u05e8",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.848666,
+            "lng": 35.523152
+        }
+    },
+    {
+        "Settlement Symbol": 1206,
+        "Settlement Name": "\u05d2\u05d9\u05ea\u05d4",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.967233,
+            "lng": 35.249125
+        }
+    },
+    {
+        "Settlement Symbol": 463,
+        "Settlement Name": "\u05d2\u05e2\u05ea\u05d5\u05df",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 33.006075,
+            "lng": 35.213831
+        }
+    },
+    {
+        "Settlement Symbol": 1129,
+        "Settlement Name": "\u05d2\u05e8\u05d5\u05e4\u05d9\u05ea",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 29.941617,
+            "lng": 35.064691
+        }
+    },
+    {
+        "Settlement Symbol": 4022,
+        "Settlement Name": "\u05d2\u05e9\u05d5\u05e8",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.819941,
+            "lng": 35.715708
+        }
+    },
+    {
+        "Settlement Symbol": 305,
+        "Settlement Name": "\u05d2\u05e9\u05e8",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.621205,
+            "lng": 35.550376
+        }
+    },
+    {
+        "Settlement Symbol": 574,
+        "Settlement Name": "\u05d2\u05e9\u05e8 \u05d4\u05d6\u05d9\u05d5",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 33.040532,
+            "lng": 35.110563
+        }
+    },
+    {
+        "Settlement Symbol": 849,
+        "Settlement Name": "\u05d3\u05d1\u05d9\u05e8\u05d4",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.411699,
+            "lng": 34.825177
+        }
+    },
+    {
+        "Settlement Symbol": 62,
+        "Settlement Name": "\u05d3\u05d2\u05e0\u05d9\u05d4 \u05d0'",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.706938,
+            "lng": 35.575062
+        }
+    },
+    {
+        "Settlement Symbol": 79,
+        "Settlement Name": "\u05d3\u05d2\u05e0\u05d9\u05d4 \u05d1'",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.69907,
+            "lng": 35.577551
+        }
+    },
+    {
+        "Settlement Symbol": 1067,
+        "Settlement Name": "\u05d3\u05d5\u05d1\"\u05d1",
+        "Determining Score": 76,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.0508,
+            "lng": 35.407747
+        }
+    },
+    {
+        "Settlement Symbol": 336,
+        "Settlement Name": "\u05d3\u05d5\u05e8\u05d5\u05ea",
+        "Determining Score": 22,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.507207,
+            "lng": 34.645725
+        }
+    },
+    {
+        "Settlement Symbol": 490,
+        "Settlement Name": "\u05d3\u05d9\u05d9\u05e8 \u05d0\u05dc-\u05d0\u05e1\u05d3",
+        "Determining Score": 43,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.93445,
+            "lng": 35.268394
+        }
+    },
+    {
+        "Settlement Symbol": 492,
+        "Settlement Name": "\u05d3\u05d9\u05d9\u05e8 \u05d7\u05e0\u05d0",
+        "Determining Score": 53,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.8622818,
+            "lng": 35.3662265
+        }
+    },
+    {
+        "Settlement Symbol": 2200,
+        "Settlement Name": "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4",
+        "Determining Score": 51,
+        "Rate 2024": 0.16,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.069419,
+            "lng": 35.033363
+        }
+    },
+    {
+        "Settlement Symbol": 2063,
+        "Settlement Name": "\u05d3\u05d9\u05e9\u05d5\u05df",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.082318,
+            "lng": 35.517572
+        }
+    },
+    {
+        "Settlement Symbol": 431,
+        "Settlement Name": "\u05d3\u05dc\u05ea\u05d5\u05df",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.016553,
+            "lng": 35.489911
+        }
+    },
+    {
+        "Settlement Symbol": 303,
+        "Settlement Name": "\u05d3\u05df",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 302,
+        "Settlement Name": "\u05d3\u05e4\u05e0\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.23075,
+            "lng": 35.638268
+        }
+    },
+    {
+        "Settlement Symbol": 1241,
+        "Settlement Name": "\u05d3\u05e7\u05dc",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1349,
+        "Settlement Name": "\u05d3\u05e8\u05d9\u05d2'\u05d0\u05ea",
+        "Determining Score": 75,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.301885,
+            "lng": 35.076793
+        }
+    },
+    {
+        "Settlement Symbol": 702,
+        "Settlement Name": "\u05d4\u05d0\u05d5\u05df",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.726748,
+            "lng": 35.622665
+        }
+    },
+    {
+        "Settlement Symbol": 356,
+        "Settlement Name": "\u05d4\u05d2\u05d5\u05e9\u05e8\u05d9\u05dd",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.221485,
+            "lng": 35.623028
+        }
+    },
+    {
+        "Settlement Symbol": 1208,
+        "Settlement Name": "\u05d4\u05d9\u05dc\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.036175,
+            "lng": 35.244582
+        }
+    },
+    {
+        "Settlement Symbol": 1261,
+        "Settlement Name": "\u05d4\u05e8 \u05e2\u05de\u05e9\u05d0",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.342717,
+            "lng": 35.101599
+        }
+    },
+    {
+        "Settlement Symbol": 1203,
+        "Settlement Name": "\u05d4\u05e8\u05e8\u05d9\u05ea",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.845696,
+            "lng": 35.369257
+        }
+    },
+    {
+        "Settlement Symbol": 584,
+        "Settlement Name": "\u05d6\u05d9\u05e7\u05d9\u05dd",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.607204,
+            "lng": 34.520968
+        }
+    },
+    {
+        "Settlement Symbol": 1065,
+        "Settlement Name": "\u05d6\u05de\u05e8\u05ea",
+        "Determining Score": 62,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.447853,
+            "lng": 34.552288
+        }
+    },
+    {
+        "Settlement Symbol": 2064,
+        "Settlement Name": "\u05d6\u05e8\u05d5\u05e2\u05d4",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.459133,
+            "lng": 34.624161
+        }
+    },
+    {
+        "Settlement Symbol": 3764,
+        "Settlement Name": "\u05d7\u05d2\u05d9",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 4026,
+        "Settlement Name": "\u05d7\u05d3-\u05e0\u05e1",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.927514,
+            "lng": 35.641408
+        }
+    },
+    {
+        "Settlement Symbol": 1239,
+        "Settlement Name": "\u05d7\u05d5\u05dc\u05d9\u05ea",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.230563,
+            "lng": 34.32734
+        }
+    },
+    {
+        "Settlement Symbol": 253,
+        "Settlement Name": "\u05d7\u05d5\u05dc\u05ea\u05d4",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 33.052851,
+            "lng": 35.609244
+        }
+    },
+    {
+        "Settlement Symbol": 662,
+        "Settlement Name": "\u05d7\u05d5\u05e1\u05df",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.997699,
+            "lng": 35.298723
+        }
+    },
+    {
+        "Settlement Symbol": 1332,
+        "Settlement Name": "\u05d7\u05d5\u05e1\u05e0\u05d9\u05d9\u05d4",
+        "Determining Score": 64,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.900573,
+            "lng": 35.322507
+        }
+    },
+    {
+        "Settlement Symbol": 374,
+        "Settlement Name": "\u05d7\u05d5\u05e7\u05d5\u05e7",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.878631,
+            "lng": 35.496654
+        }
+    },
+    {
+        "Settlement Symbol": 1303,
+        "Settlement Name": "\u05d7\u05d5\u05e8\u05d4",
+        "Determining Score": 67,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 31.2997256,
+            "lng": 34.935863
+        }
+    },
+    {
+        "Settlement Symbol": 496,
+        "Settlement Name": "\u05d7\u05d5\u05e8\u05e4\u05d9\u05e9",
+        "Determining Score": 76,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 33.016688,
+            "lng": 35.347106
+        }
+    },
+    {
+        "Settlement Symbol": 1047,
+        "Settlement Name": "\u05d7\u05d6\u05d5\u05df",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.90658,
+            "lng": 35.395291
+        }
+    },
+    {
+        "Settlement Symbol": 1272,
+        "Settlement Name": "\u05d7\u05dc\u05d5\u05e5",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 820,
+        "Settlement Name": "\u05d7\u05dc\u05e5",
+        "Determining Score": 33,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.57794,
+            "lng": 34.658391
+        }
+    },
+    {
+        "Settlement Symbol": 343,
+        "Settlement Name": "\u05d7\u05de\u05d3\u05d9\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.519773,
+            "lng": 35.520568
+        }
+    },
+    {
+        "Settlement Symbol": 3646,
+        "Settlement Name": "\u05d7\u05de\u05d3\u05ea",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.252028,
+            "lng": 35.526843
+        }
+    },
+    {
+        "Settlement Symbol": 280,
+        "Settlement Name": "\u05d7\u05e0\u05d9\u05ea\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.087634,
+            "lng": 35.17343
+        }
+    },
+    {
+        "Settlement Symbol": 4005,
+        "Settlement Name": "\u05d7\u05e1\u05e4\u05d9\u05df",
+        "Determining Score": 93,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.8456305,
+            "lng": 35.7929907
+        }
+    },
+    {
+        "Settlement Symbol": 13,
+        "Settlement Name": "\u05d7\u05e6\u05d1\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.767942,
+            "lng": 35.278498
+        }
+    },
+    {
+        "Settlement Symbol": 2034,
+        "Settlement Name": "\u05d7\u05e6\u05d5\u05e8 \u05d4\u05d2\u05dc\u05d9\u05dc\u05d9\u05ea",
+        "Determining Score": 61,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.980382,
+            "lng": 35.543548
+        }
+    },
+    {
+        "Settlement Symbol": 397,
+        "Settlement Name": "\u05d7\u05e6\u05e8\u05d9\u05dd",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.240603,
+            "lng": 34.717427
+        }
+    },
+    {
+        "Settlement Symbol": 1209,
+        "Settlement Name": "\u05d7\u05e8\u05e9\u05d9\u05dd",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.957737,
+            "lng": 35.328217
+        }
+    },
+    {
+        "Settlement Symbol": 6700,
+        "Settlement Name": "\u05d8\u05d1\u05e8\u05d9\u05d4",
+        "Determining Score": 53,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.795859,
+            "lng": 35.530973
+        }
+    },
+    {
+        "Settlement Symbol": 962,
+        "Settlement Name": "\u05d8\u05d5\u05d1\u05d0-\u05d6\u05e0\u05d2\u05e8\u05d9\u05d9\u05d4",
+        "Determining Score": 68,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.96621,
+            "lng": 35.592018
+        }
+    },
+    {
+        "Settlement Symbol": 268,
+        "Settlement Name": "\u05d8\u05d9\u05e8\u05ea \u05e6\u05d1\u05d9",
+        "Determining Score": 86,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.422486,
+            "lng": 35.52832
+        }
+    },
+    {
+        "Settlement Symbol": 1181,
+        "Settlement Name": "\u05d8\u05dc-\u05d0\u05dc",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.927306,
+            "lng": 35.182499
+        }
+    },
+    {
+        "Settlement Symbol": 1177,
+        "Settlement Name": "\u05d8\u05dc\u05dc\u05d9\u05dd",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 30.991511,
+            "lng": 34.771261
+        }
+    },
+    {
+        "Settlement Symbol": 8900,
+        "Settlement Name": "\u05d8\u05de\u05e8\u05d4",
+        "Determining Score": 50,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.8552512,
+            "lng": 35.1859141
+        }
+    },
+    {
+        "Settlement Symbol": 3743,
+        "Settlement Name": "\u05d8\u05e0\u05d0",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1214,
+        "Settlement Name": "\u05d8\u05e4\u05d7\u05d5\u05ea",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1295,
+        "Settlement Name": "\u05d9\u05d0\u05e0\u05d5\u05d7-\u05d2'\u05ea",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.981568,
+            "lng": 35.241169
+        }
+    },
+    {
+        "Settlement Symbol": 1232,
+        "Settlement Name": "\u05d9\u05d1\u05d5\u05dc",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.189458,
+            "lng": 34.318952
+        }
+    },
+    {
+        "Settlement Symbol": 358,
+        "Settlement Name": "\u05d9\u05d3 \u05de\u05e8\u05d3\u05db\u05d9",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.586963,
+            "lng": 34.5575
+        }
+    },
+    {
+        "Settlement Symbol": 1158,
+        "Settlement Name": "\u05d9\u05d4\u05dc",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.084234,
+            "lng": 35.128393
+        }
+    },
+    {
+        "Settlement Symbol": 2009,
+        "Settlement Name": "\u05d9\u05d5\u05d1\u05dc",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1226,
+        "Settlement Name": "\u05d9\u05d5\u05d1\u05dc\u05d9\u05dd",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.878163,
+            "lng": 35.269294
+        }
+    },
+    {
+        "Settlement Symbol": 4007,
+        "Settlement Name": "\u05d9\u05d5\u05e0\u05ea\u05df",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.93966,
+            "lng": 35.795468
+        }
+    },
+    {
+        "Settlement Symbol": 803,
+        "Settlement Name": "\u05d9\u05d5\u05e9\u05d9\u05d1\u05d9\u05d4",
+        "Determining Score": 60,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.444699,
+            "lng": 34.608784
+        }
+    },
+    {
+        "Settlement Symbol": 409,
+        "Settlement Name": "\u05d9\u05d7\u05d9\u05e2\u05dd",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.996109,
+            "lng": 35.22109100000001
+        }
+    },
+    {
+        "Settlement Symbol": 866,
+        "Settlement Name": "\u05d9\u05d8\u05d1\u05ea\u05d4",
+        "Determining Score": 93,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 29.896322,
+            "lng": 35.059227
+        }
+    },
+    {
+        "Settlement Symbol": 811,
+        "Settlement Name": "\u05d9\u05db\u05d9\u05e0\u05d9",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.482205,
+            "lng": 34.598634
+        }
+    },
+    {
+        "Settlement Symbol": 29,
+        "Settlement Name": "\u05d9\u05e1\u05d5\u05d3 \u05d4\u05de\u05e2\u05dc\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.05358,
+            "lng": 35.589013
+        }
+    },
+    {
+        "Settlement Symbol": 575,
+        "Settlement Name": "\u05d9\u05e1\u05e2\u05d5\u05e8",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.901145,
+            "lng": 35.166641
+        }
+    },
+    {
+        "Settlement Symbol": 1138,
+        "Settlement Name": "\u05d9\u05e2\u05d3",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.881225,
+            "lng": 35.24064
+        }
+    },
+    {
+        "Settlement Symbol": 795,
+        "Settlement Name": "\u05d9\u05e2\u05e8\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.068013,
+            "lng": 35.18608
+        }
+    },
+    {
+        "Settlement Symbol": 3566,
+        "Settlement Name": "\u05d9\u05e4\u05d9\u05ea",
+        "Determining Score": 62,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.062687,
+            "lng": 35.474317
+        }
+    },
+    {
+        "Settlement Symbol": 453,
+        "Settlement Name": "\u05d9\u05e4\u05ea\u05d7",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.128346,
+            "lng": 35.55202999999999
+        }
+    },
+    {
+        "Settlement Symbol": 623,
+        "Settlement Name": "\u05d9\u05e8\u05d0\u05d5\u05df",
+        "Determining Score": 76,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.077239,
+            "lng": 35.454291
+        }
+    },
+    {
+        "Settlement Symbol": 2026,
+        "Settlement Name": "\u05d9\u05e8\u05d3\u05e0\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.565357,
+            "lng": 35.565978
+        }
+    },
+    {
+        "Settlement Symbol": 831,
+        "Settlement Name": "\u05d9\u05e8\u05d5\u05d7\u05dd",
+        "Determining Score": 61,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 30.9871778,
+            "lng": 34.9310463
+        }
+    },
+    {
+        "Settlement Symbol": 502,
+        "Settlement Name": "\u05d9\u05e8\u05db\u05d0",
+        "Determining Score": 60,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.953492,
+            "lng": 35.21199
+        }
+    },
+    {
+        "Settlement Symbol": 916,
+        "Settlement Name": "\u05d9\u05e9\u05e2",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.247595,
+            "lng": 34.403091
+        }
+    },
+    {
+        "Settlement Symbol": 1227,
+        "Settlement Name": "\u05d9\u05ea\u05d3",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.207042,
+            "lng": 34.326126
+        }
+    },
+    {
+        "Settlement Symbol": 504,
+        "Settlement Name": "\u05db\u05d0\u05d1\u05d5\u05dc",
+        "Determining Score": 50,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.8700114,
+            "lng": 35.2071305
+        }
+    },
+    {
+        "Settlement Symbol": 576,
+        "Settlement Name": "\u05db\u05d1\u05e8\u05d9",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 33.020985,
+            "lng": 35.147007
+        }
+    },
+    {
+        "Settlement Symbol": 1338,
+        "Settlement Name": "\u05db\u05d3\u05d9\u05ea\u05d4",
+        "Determining Score": 97,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.005954,
+            "lng": 35.468309
+        }
+    },
+    {
+        "Settlement Symbol": 1252,
+        "Settlement Name": "\u05db\u05d5\u05e8\u05d6\u05d9\u05dd",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.911112,
+            "lng": 35.55015
+        }
+    },
+    {
+        "Settlement Symbol": 1210,
+        "Settlement Name": "\u05db\u05d7\u05dc",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.89046500000001,
+            "lng": 35.511572
+        }
+    },
+    {
+        "Settlement Symbol": 1367,
+        "Settlement Name": "\u05db\u05d7\u05dc\u05d4",
+        "Determining Score": 75,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.287112,
+            "lng": 35.048572
+        }
+    },
+    {
+        "Settlement Symbol": 840,
+        "Settlement Name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.374545,
+            "lng": 34.398992
+        }
+    },
+    {
+        "Settlement Symbol": 1153,
+        "Settlement Name": "\u05db\u05d9\u05e9\u05d5\u05e8",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.946651,
+            "lng": 35.250213
+        }
+    },
+    {
+        "Settlement Symbol": 1183,
+        "Settlement Name": "\u05db\u05dc\u05d9\u05dc",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.983567,
+            "lng": 35.199672
+        }
+    },
+    {
+        "Settlement Symbol": 1229,
+        "Settlement Name": "\u05db\u05dc\u05e0\u05d9\u05ea",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.875328,
+            "lng": 35.453972
+        }
+    },
+    {
+        "Settlement Symbol": 1331,
+        "Settlement Name": "\u05db\u05de\u05d0\u05e0\u05d4",
+        "Determining Score": 60,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.909311,
+            "lng": 35.336928
+        }
+    },
+    {
+        "Settlement Symbol": 1291,
+        "Settlement Name": "\u05db\u05de\u05d4\u05d9\u05df",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.910327,
+            "lng": 34.430725
+        }
+    },
+    {
+        "Settlement Symbol": 1201,
+        "Settlement Name": "\u05db\u05de\u05d5\u05df",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.909119,
+            "lng": 35.360916
+        }
+    },
+    {
+        "Settlement Symbol": 4028,
+        "Settlement Name": "\u05db\u05e0\u05e3",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.870412,
+            "lng": 35.697897
+        }
+    },
+    {
+        "Settlement Symbol": 63,
+        "Settlement Name": "\u05db\u05e0\u05e8\u05ea (\u05de\u05d5\u05e9\u05d1\u05d4)",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.7223846,
+            "lng": 35.56577740000001
+        }
+    },
+    {
+        "Settlement Symbol": 57,
+        "Settlement Name": "\u05db\u05e0\u05e8\u05ea (\u05e7\u05d1\u05d5\u05e6\u05d4)",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.714209,
+            "lng": 35.562746
+        }
+    },
+    {
+        "Settlement Symbol": 1059,
+        "Settlement Name": "\u05db\u05e1\u05d9\u05e4\u05d4",
+        "Determining Score": 75,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 31.249246,
+            "lng": 35.083681
+        }
+    },
+    {
+        "Settlement Symbol": 1296,
+        "Settlement Name": "\u05db\u05e1\u05e8\u05d0-\u05e1\u05de\u05d9\u05e2",
+        "Determining Score": 85,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 32.9646608,
+            "lng": 35.3038834
+        }
+    },
+    {
+        "Settlement Symbol": 357,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05d1\u05dc\u05d5\u05dd",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.172527,
+            "lng": 35.607938
+        }
+    },
+    {
+        "Settlement Symbol": 76,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05d2\u05dc\u05e2\u05d3\u05d9",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.242078,
+            "lng": 35.574142
+        }
+    },
+    {
+        "Settlement Symbol": 443,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05d4\u05e0\u05e9\u05d9\u05d0",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.97466,
+            "lng": 35.602308
+        }
+    },
+    {
+        "Settlement Symbol": 609,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05d7\u05d5\u05e9\u05df",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.013123,
+            "lng": 35.440171
+        }
+    },
+    {
+        "Settlement Symbol": 1297,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05d7\u05e0\u05e0\u05d9\u05d4",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.915993,
+            "lng": 35.423785
+        }
+    },
+    {
+        "Settlement Symbol": 4004,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05d7\u05e8\u05d5\u05d1",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.762357,
+            "lng": 35.66418
+        }
+    },
+    {
+        "Settlement Symbol": 507,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05d9\u05d0\u05e1\u05d9\u05e3",
+        "Determining Score": 33,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.9520318,
+            "lng": 35.1599957
+        }
+    },
+    {
+        "Settlement Symbol": 1095,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05de\u05d9\u05de\u05d5\u05df",
+        "Determining Score": 62,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.431401,
+            "lng": 34.53718
+        }
+    },
+    {
+        "Settlement Symbol": 297,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05de\u05e1\u05e8\u05d9\u05e7",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.891218,
+            "lng": 35.098414
+        }
+    },
+    {
+        "Settlement Symbol": 345,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05e1\u05d0\u05dc\u05d3",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.196035,
+            "lng": 35.657993
+        }
+    },
+    {
+        "Settlement Symbol": 845,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05e2\u05d6\u05d4",
+        "Determining Score": 57,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.483416,
+            "lng": 34.532291
+        }
+    },
+    {
+        "Settlement Symbol": 579,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05e8\u05d0\u05e9 \u05d4\u05e0\u05e7\u05e8\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.08609,
+            "lng": 35.113455
+        }
+    },
+    {
+        "Settlement Symbol": 1130,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05e8\u05d5\u05d6\u05e0\u05d5\u05d0\u05dc\u05d3 (\u05d6\u05e8\u05e2\u05d9\u05ea)",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.09898500000001,
+            "lng": 35.288522
+        }
+    },
+    {
+        "Settlement Symbol": 295,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05e8\u05d5\u05e4\u05d9\u05df",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.457549,
+            "lng": 35.555673
+        }
+    },
+    {
+        "Settlement Symbol": 605,
+        "Settlement Name": "\u05db\u05e4\u05e8 \u05e9\u05de\u05d0\u05d9",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.955698,
+            "lng": 35.457916
+        }
+    },
+    {
+        "Settlement Symbol": 1285,
+        "Settlement Name": "\u05db\u05e8\u05db\u05d5\u05dd",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.928271,
+            "lng": 35.606331
+        }
+    },
+    {
+        "Settlement Symbol": 664,
+        "Settlement Name": "\u05db\u05e8\u05dd \u05d1\u05df \u05d6\u05de\u05e8\u05d4",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.039224,
+            "lng": 35.46988899999999
+        }
+    },
+    {
+        "Settlement Symbol": 1085,
+        "Settlement Name": "\u05db\u05e8\u05dd \u05e9\u05dc\u05d5\u05dd",
+        "Determining Score": 76,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.228281,
+            "lng": 34.284559
+        }
+    },
+    {
+        "Settlement Symbol": 1139,
+        "Settlement Name": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc",
+        "Determining Score": 27,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.9085935,
+            "lng": 35.2932814
+        }
+    },
+    {
+        "Settlement Symbol": 768,
+        "Settlement Name": "\u05db\u05e8\u05de\u05d9\u05d9\u05d4",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.60269499999999,
+            "lng": 34.540413
+        }
+    },
+    {
+        "Settlement Symbol": 1198,
+        "Settlement Name": "\u05db\u05e8\u05de\u05d9\u05dd",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.333464,
+            "lng": 34.917879
+        }
+    },
+    {
+        "Settlement Symbol": 3656,
+        "Settlement Name": "\u05db\u05e8\u05de\u05dc",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.432786,
+            "lng": 35.182268
+        }
+    },
+    {
+        "Settlement Symbol": 1207,
+        "Settlement Name": "\u05dc\u05d1\u05d5\u05df",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.94118,
+            "lng": 35.286475
+        }
+    },
+    {
+        "Settlement Symbol": 1230,
+        "Settlement Name": "\u05dc\u05d1\u05e0\u05d9\u05dd",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.86379,
+            "lng": 35.497479
+        }
+    },
+    {
+        "Settlement Symbol": 2023,
+        "Settlement Name": "\u05dc\u05d4\u05d1",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 380,
+        "Settlement Name": "\u05dc\u05d4\u05d1\u05d5\u05ea \u05d4\u05d1\u05e9\u05df",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 33.1412178,
+            "lng": 35.6478714
+        }
+    },
+    {
+        "Settlement Symbol": 595,
+        "Settlement Name": "\u05dc\u05d5\u05d7\u05de\u05d9 \u05d4\u05d2\u05d9\u05d8\u05d0\u05d5\u05ea",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.962661,
+            "lng": 35.096741
+        }
+    },
+    {
+        "Settlement Symbol": 1171,
+        "Settlement Name": "\u05dc\u05d5\u05d8\u05dd",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.880858,
+            "lng": 35.35996
+        }
+    },
+    {
+        "Settlement Symbol": 1255,
+        "Settlement Name": "\u05dc\u05d5\u05d8\u05df",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 29.988263,
+            "lng": 35.086776
+        }
+    },
+    {
+        "Settlement Symbol": 674,
+        "Settlement Name": "\u05dc\u05d9\u05de\u05df",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 33.058732,
+            "lng": 35.111815
+        }
+    },
+    {
+        "Settlement Symbol": 1173,
+        "Settlement Name": "\u05dc\u05e4\u05d9\u05d3\u05d5\u05ea",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.959801,
+            "lng": 35.260956
+        }
+    },
+    {
+        "Settlement Symbol": 1060,
+        "Settlement Name": "\u05dc\u05e7\u05d9\u05d4",
+        "Determining Score": 67,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 31.324884,
+            "lng": 34.866219
+        }
+    },
+    {
+        "Settlement Symbol": 4204,
+        "Settlement Name": "\u05de\u05d1\u05d5\u05d0 \u05d7\u05de\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.736701,
+            "lng": 35.655207
+        }
+    },
+    {
+        "Settlement Symbol": 1080,
+        "Settlement Name": "\u05de\u05d1\u05d5\u05e2\u05d9\u05dd",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.44945,
+            "lng": 34.65499399999999
+        }
+    },
+    {
+        "Settlement Symbol": 829,
+        "Settlement Name": "\u05de\u05d1\u05d8\u05d7\u05d9\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 573,
+        "Settlement Name": "\u05de\u05d1\u05e7\u05d9\u05e2\u05d9\u05dd",
+        "Determining Score": 0,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.622518,
+            "lng": 34.577431
+        }
+    },
+    {
+        "Settlement Symbol": 516,
+        "Settlement Name": "\u05de\u05d2'\u05d3 \u05d0\u05dc-\u05db\u05e8\u05d5\u05dd",
+        "Determining Score": 50,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.920132,
+            "lng": 35.25665
+        }
+    },
+    {
+        "Settlement Symbol": 4201,
+        "Settlement Name": "\u05de\u05d2'\u05d3\u05dc \u05e9\u05de\u05e1",
+        "Determining Score": 93,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 33.2690961,
+            "lng": 35.772122
+        }
+    },
+    {
+        "Settlement Symbol": 481,
+        "Settlement Name": "\u05de\u05d2\u05d0\u05e8",
+        "Determining Score": 60,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.8872843,
+            "lng": 35.4091765
+        }
+    },
+    {
+        "Settlement Symbol": 65,
+        "Settlement Name": "\u05de\u05d2\u05d3\u05dc",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 695,
+        "Settlement Name": "\u05de\u05d2\u05df",
+        "Determining Score": 76,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.298108,
+            "lng": 34.427059
+        }
+    },
+    {
+        "Settlement Symbol": 1140,
+        "Settlement Name": "\u05de\u05d3\u05e8\u05e9\u05ea \u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 30.852297,
+            "lng": 34.7834
+        }
+    },
+    {
+        "Settlement Symbol": 1360,
+        "Settlement Name": "\u05de\u05d5\u05dc\u05d3\u05d4*",
+        "Determining Score": 67,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.261071,
+            "lng": 34.975564
+        }
+    },
+    {
+        "Settlement Symbol": 1163,
+        "Settlement Name": "\u05de\u05d5\u05e8\u05df",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.921637,
+            "lng": 35.39481
+        }
+    },
+    {
+        "Settlement Symbol": 517,
+        "Settlement Name": "\u05de\u05d6\u05e8\u05e2\u05d4",
+        "Determining Score": 43,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.983652,
+            "lng": 35.098934
+        }
+    },
+    {
+        "Settlement Symbol": 3599,
+        "Settlement Name": "\u05de\u05d7\u05d5\u05dc\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.365285,
+            "lng": 35.51602
+        }
+    },
+    {
+        "Settlement Symbol": 1418,
+        "Settlement Name": "\u05de\u05d7\u05e0\u05d4 \u05d8\u05dc\u05d9*",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1416,
+        "Settlement Name": "\u05de\u05d7\u05e0\u05d4 \u05d9\u05d5\u05db\u05d1\u05d3*",
+        "Determining Score": 11,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 29.952075,
+            "lng": 34.934344
+        }
+    },
+    {
+        "Settlement Symbol": 1415,
+        "Settlement Name": "\u05de\u05d7\u05e0\u05d4 \u05d9\u05e4\u05d4*",
+        "Determining Score": 5,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1196,
+        "Settlement Name": "\u05de\u05d7\u05e0\u05d4 \u05d9\u05ea\u05d9\u05e8",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.347793,
+            "lng": 35.060671
+        }
+    },
+    {
+        "Settlement Symbol": 308,
+        "Settlement Name": "\u05de\u05d7\u05e0\u05d9\u05d9\u05dd",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.988845,
+            "lng": 35.570375
+        }
+    },
+    {
+        "Settlement Symbol": 43,
+        "Settlement Name": "\u05de\u05d8\u05d5\u05dc\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.277232,
+            "lng": 35.578235
+        }
+    },
+    {
+        "Settlement Symbol": 4019,
+        "Settlement Name": "\u05de\u05d9\u05e6\u05e8",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.768641,
+            "lng": 35.736356
+        }
+    },
+    {
+        "Settlement Symbol": 607,
+        "Settlement Name": "\u05de\u05d9\u05e8\u05d5\u05df",
+        "Determining Score": 97,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.985226,
+            "lng": 35.441643
+        }
+    },
+    {
+        "Settlement Symbol": 1343,
+        "Settlement Name": "\u05de\u05db\u05d7\u05d5\u05dc",
+        "Determining Score": 75,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.288515,
+            "lng": 35.075736
+        }
+    },
+    {
+        "Settlement Symbol": 1202,
+        "Settlement Name": "\u05de\u05db\u05de\u05e0\u05d9\u05dd",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.905865,
+            "lng": 35.32899099999999
+        }
+    },
+    {
+        "Settlement Symbol": 2044,
+        "Settlement Name": "\u05de\u05dc\u05d9\u05dc\u05d5\u05ea",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.389897,
+            "lng": 34.595243
+        }
+    },
+    {
+        "Settlement Symbol": 596,
+        "Settlement Name": "\u05de\u05dc\u05db\u05d9\u05d9\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.098589,
+            "lng": 35.509624
+        }
+    },
+    {
+        "Settlement Symbol": 1174,
+        "Settlement Name": "\u05de\u05e0\u05d5\u05e3",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.853258,
+            "lng": 35.237355
+        }
+    },
+    {
+        "Settlement Symbol": 1205,
+        "Settlement Name": "\u05de\u05e0\u05d5\u05ea",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.038709,
+            "lng": 35.195156
+        }
+    },
+    {
+        "Settlement Symbol": 48,
+        "Settlement Name": "\u05de\u05e0\u05d7\u05de\u05d9\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.66318529999999,
+            "lng": 35.555195
+        }
+    },
+    {
+        "Settlement Symbol": 347,
+        "Settlement Name": "\u05de\u05e0\u05e8\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.195375,
+            "lng": 35.543728
+        }
+    },
+    {
+        "Settlement Symbol": 263,
+        "Settlement Name": "\u05de\u05e1\u05d3\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.682305,
+            "lng": 35.597657
+        }
+    },
+    {
+        "Settlement Symbol": 748,
+        "Settlement Name": "\u05de\u05e1\u05dc\u05d5\u05dc",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.323677,
+            "lng": 34.590761
+        }
+    },
+    {
+        "Settlement Symbol": 4203,
+        "Settlement Name": "\u05de\u05e1\u05e2\u05d3\u05d4",
+        "Determining Score": 97,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 259920,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1082,
+        "Settlement Name": "\u05de\u05e2\u05d2\u05dc\u05d9\u05dd",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.398859,
+            "lng": 34.598239
+        }
+    },
+    {
+        "Settlement Symbol": 678,
+        "Settlement Name": "\u05de\u05e2\u05d2\u05df",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.706344,
+            "lng": 35.600575
+        }
+    },
+    {
+        "Settlement Symbol": 272,
+        "Settlement Name": "\u05de\u05e2\u05d5\u05d6 \u05d7\u05d9\u05d9\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.49407,
+            "lng": 35.550767
+        }
+    },
+    {
+        "Settlement Symbol": 3657,
+        "Settlement Name": "\u05de\u05e2\u05d5\u05df",
+        "Determining Score": 61,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.414592,
+            "lng": 35.163893
+        }
+    },
+    {
+        "Settlement Symbol": 570,
+        "Settlement Name": "\u05de\u05e2\u05d5\u05e0\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.016894,
+            "lng": 35.263626
+        }
+    },
+    {
+        "Settlement Symbol": 416,
+        "Settlement Name": "\u05de\u05e2\u05d9\u05d9\u05df \u05d1\u05e8\u05d5\u05da",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.239349,
+            "lng": 35.609359
+        }
+    },
+    {
+        "Settlement Symbol": 518,
+        "Settlement Name": "\u05de\u05e2\u05d9\u05dc\u05d9\u05d0",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 33.027194,
+            "lng": 35.256304
+        }
+    },
+    {
+        "Settlement Symbol": 4008,
+        "Settlement Name": "\u05de\u05e2\u05dc\u05d4 \u05d2\u05de\u05dc\u05d0",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.88825600000001,
+            "lng": 35.685966
+        }
+    },
+    {
+        "Settlement Symbol": 1063,
+        "Settlement Name": "\u05de\u05e2\u05dc\u05d5\u05ea-\u05ea\u05e8\u05e9\u05d9\u05d7\u05d0",
+        "Determining Score": 68,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 33.0148018,
+            "lng": 35.2768101
+        }
+    },
+    {
+        "Settlement Symbol": 668,
+        "Settlement Name": "\u05de\u05e4\u05dc\u05e1\u05d9\u05dd",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.50220599999999,
+            "lng": 34.561674
+        }
+    },
+    {
+        "Settlement Symbol": 3745,
+        "Settlement Name": "\u05de\u05e6\u05d3\u05d5\u05ea \u05d9\u05d4\u05d5\u05d3\u05d4",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.365586,
+            "lng": 35.11134
+        }
+    },
+    {
+        "Settlement Symbol": 325,
+        "Settlement Name": "\u05de\u05e6\u05d5\u05d1\u05d4",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 33.062312,
+            "lng": 35.155705
+        }
+    },
+    {
+        "Settlement Symbol": 99,
+        "Settlement Name": "\u05de\u05e6\u05e4\u05d4 \u05e8\u05de\u05d5\u05df",
+        "Determining Score": 68,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 30.6094096,
+            "lng": 34.8011766
+        }
+    },
+    {
+        "Settlement Symbol": 3610,
+        "Settlement Name": "\u05de\u05e6\u05e4\u05d4 \u05e9\u05dc\u05dd",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.568875,
+            "lng": 35.400367
+        }
+    },
+    {
+        "Settlement Symbol": 843,
+        "Settlement Name": "\u05de\u05e8\u05d2\u05dc\u05d9\u05d5\u05ea",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.216474,
+            "lng": 35.544354
+        }
+    },
+    {
+        "Settlement Symbol": 4101,
+        "Settlement Name": "\u05de\u05e8\u05d5\u05dd \u05d2\u05d5\u05dc\u05df",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.132583,
+            "lng": 35.77707100000001
+        }
+    },
+    {
+        "Settlement Symbol": 1340,
+        "Settlement Name": "\u05de\u05e8\u05d7\u05d1 \u05e2\u05dd",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 30.888022,
+            "lng": 34.828175
+        }
+    },
+    {
+        "Settlement Symbol": 421,
+        "Settlement Name": "\u05de\u05e9\u05d0\u05d1\u05d9 \u05e9\u05d3\u05d4",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.00404199999999,
+            "lng": 34.785029
+        }
+    },
+    {
+        "Settlement Symbol": 378,
+        "Settlement Name": "\u05de\u05e9\u05d2\u05d1 \u05e2\u05dd",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.247572,
+            "lng": 35.548499
+        }
+    },
+    {
+        "Settlement Symbol": 3605,
+        "Settlement Name": "\u05de\u05e9\u05d5\u05d0\u05d4",
+        "Determining Score": 62,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.111805,
+            "lng": 35.490255
+        }
+    },
+    {
+        "Settlement Symbol": 3785,
+        "Settlement Name": "\u05de\u05e9\u05db\u05d9\u05d5\u05ea",
+        "Determining Score": 97,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.317865,
+            "lng": 35.502754
+        }
+    },
+    {
+        "Settlement Symbol": 732,
+        "Settlement Name": "\u05de\u05e9\u05de\u05e8 \u05d4\u05d9\u05e8\u05d3\u05df",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 33.003484,
+            "lng": 35.598271
+        }
+    },
+    {
+        "Settlement Symbol": 395,
+        "Settlement Name": "\u05de\u05e9\u05de\u05e8 \u05d4\u05e0\u05d2\u05d1",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.364796,
+            "lng": 34.71796800000001
+        }
+    },
+    {
+        "Settlement Symbol": 1184,
+        "Settlement Name": "\u05de\u05ea\u05ea",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.041684,
+            "lng": 35.35669499999999
+        }
+    },
+    {
+        "Settlement Symbol": 4551,
+        "Settlement Name": "\u05e0\u05d0\u05d5\u05ea \u05d2\u05d5\u05dc\u05df",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.787026,
+            "lng": 35.693172
+        }
+    },
+    {
+        "Settlement Symbol": 1124,
+        "Settlement Name": "\u05e0\u05d0\u05d5\u05ea \u05d4\u05db\u05d9\u05db\u05e8",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.933368,
+            "lng": 35.378126
+        }
+    },
+    {
+        "Settlement Symbol": 408,
+        "Settlement Name": "\u05e0\u05d0\u05d5\u05ea \u05de\u05e8\u05d3\u05db\u05d9",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.159785,
+            "lng": 35.595602
+        }
+    },
+    {
+        "Settlement Symbol": 1197,
+        "Settlement Name": "\u05e0\u05d0\u05d5\u05ea \u05e1\u05de\u05d3\u05e8",
+        "Determining Score": 75,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.049079,
+            "lng": 35.028106
+        }
+    },
+    {
+        "Settlement Symbol": 396,
+        "Settlement Name": "\u05e0\u05d1\u05d8\u05d9\u05dd",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.219761,
+            "lng": 34.882488
+        }
+    },
+    {
+        "Settlement Symbol": 3724,
+        "Settlement Name": "\u05e0\u05d2\u05d5\u05d4\u05d5\u05ea",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.493077,
+            "lng": 34.983347
+        }
+    },
+    {
+        "Settlement Symbol": 9100,
+        "Settlement Name": "\u05e0\u05d4\u05e8\u05d9\u05d9\u05d4",
+        "Determining Score": 52,
+        "Rate 2024": 0.12000000000000001,
+        "Ceiling 2024": 226560,
+        "location": {
+            "lat": 33.0085361,
+            "lng": 35.0980514
+        }
+    },
+    {
+        "Settlement Symbol": 4304,
+        "Settlement Name": "\u05e0\u05d5\u05d1",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.832852,
+            "lng": 35.783574
+        }
+    },
+    {
+        "Settlement Symbol": 1366,
+        "Settlement Name": "\u05e0\u05d5\u05d5\u05d4",
+        "Determining Score": 97,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.162183,
+            "lng": 34.329827
+        }
+    },
+    {
+        "Settlement Symbol": 590,
+        "Settlement Name": "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d5\u05e8",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.589025,
+            "lng": 35.554544
+        }
+    },
+    {
+        "Settlement Symbol": 4303,
+        "Settlement Name": "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d8\u05d9\"\u05d1",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.26202,
+            "lng": 35.740574
+        }
+    },
+    {
+        "Settlement Symbol": 296,
+        "Settlement Name": "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d9\u05ea\u05df",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.492304,
+            "lng": 35.533119
+        }
+    },
+    {
+        "Settlement Symbol": 1057,
+        "Settlement Name": "\u05e0\u05d5\u05d5\u05d4 \u05d6\u05d5\u05d4\u05e8",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.152068,
+            "lng": 35.364771
+        }
+    },
+    {
+        "Settlement Symbol": 1314,
+        "Settlement Name": "\u05e0\u05d5\u05d5\u05d4 \u05d6\u05d9\u05d5",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.027399,
+            "lng": 35.18433
+        }
+    },
+    {
+        "Settlement Symbol": 1279,
+        "Settlement Name": "\u05e0\u05d5\u05d5\u05d4 \u05d7\u05e8\u05d9\u05e3",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.039793,
+            "lng": 35.03649
+        }
+    },
+    {
+        "Settlement Symbol": 15,
+        "Settlement Name": "\u05e0\u05d5\u05e2\u05dd",
+        "Determining Score": 33,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.568567,
+            "lng": 34.788161
+        }
+    },
+    {
+        "Settlement Symbol": 844,
+        "Settlement Name": "\u05e0\u05d7\u05dc \u05e2\u05d5\u05d6",
+        "Determining Score": 57,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.47267999999999,
+            "lng": 34.497675
+        }
+    },
+    {
+        "Settlement Symbol": 522,
+        "Settlement Name": "\u05e0\u05d7\u05e3",
+        "Determining Score": 64,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.9350929,
+            "lng": 35.3156595
+        }
+    },
+    {
+        "Settlement Symbol": 1147,
+        "Settlement Name": "\u05e0\u05d8\u05d5\u05e2\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.065387,
+            "lng": 35.323406
+        }
+    },
+    {
+        "Settlement Symbol": 4014,
+        "Settlement Name": "\u05e0\u05d8\u05d5\u05e8",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.854068,
+            "lng": 35.752574
+        }
+    },
+    {
+        "Settlement Symbol": 1195,
+        "Settlement Name": "\u05e0\u05d9\u05e6\u05e0\u05d4 (\u05e7\u05d4\u05d9\u05dc\u05ea \u05d7\u05d9\u05e0\u05d5\u05da)",
+        "Determining Score": 86,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.885983,
+            "lng": 34.4225689
+        }
+    },
+    {
+        "Settlement Symbol": 1280,
+        "Settlement Name": "\u05e0\u05d9\u05e6\u05e0\u05d9 \u05e1\u05d9\u05e0\u05d9",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.903428,
+            "lng": 34.396679
+        }
+    },
+    {
+        "Settlement Symbol": 402,
+        "Settlement Name": "\u05e0\u05d9\u05e8 \u05d9\u05e6\u05d7\u05e7",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.23604,
+            "lng": 34.356702
+        }
+    },
+    {
+        "Settlement Symbol": 2047,
+        "Settlement Name": "\u05e0\u05d9\u05e8 \u05de\u05e9\u05d4",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.477456,
+            "lng": 34.630085
+        }
+    },
+    {
+        "Settlement Symbol": 69,
+        "Settlement Name": "\u05e0\u05d9\u05e8 \u05e2\u05d5\u05d6",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.309697,
+            "lng": 34.402075
+        }
+    },
+    {
+        "Settlement Symbol": 348,
+        "Settlement Name": "\u05e0\u05d9\u05e8 \u05e2\u05dd",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.518459,
+            "lng": 34.580544
+        }
+    },
+    {
+        "Settlement Symbol": 2048,
+        "Settlement Name": "\u05e0\u05d9\u05e8 \u05e2\u05e7\u05d9\u05d1\u05d0",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.469933,
+            "lng": 34.646166
+        }
+    },
+    {
+        "Settlement Symbol": 602,
+        "Settlement Name": "\u05e0\u05d9\u05e8\u05d9\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.33572999999999,
+            "lng": 34.394087
+        }
+    },
+    {
+        "Settlement Symbol": 4035,
+        "Settlement Name": "\u05e0\u05de\u05e8\u05d5\u05d3",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1143,
+        "Settlement Name": "\u05e0\u05e1 \u05e2\u05de\u05d9\u05dd",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.965465,
+            "lng": 35.121588
+        }
+    },
+    {
+        "Settlement Symbol": 3713,
+        "Settlement Name": "\u05e0\u05e2\u05de\"\u05d4",
+        "Determining Score": 62,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.907541,
+            "lng": 35.467713
+        }
+    },
+    {
+        "Settlement Symbol": 1242,
+        "Settlement Name": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05e2\u05e9\u05e8\u05d4",
+        "Determining Score": 47,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.572407,
+            "lng": 34.539322
+        }
+    },
+    {
+        "Settlement Symbol": 792,
+        "Settlement Name": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05e9\u05d9\u05d9\u05e8\u05d4",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.991185,
+            "lng": 35.130745
+        }
+    },
+    {
+        "Settlement Symbol": 246,
+        "Settlement Name": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea",
+        "Determining Score": 50,
+        "Rate 2024": 0.16,
+        "Ceiling 2024": 226560,
+        "location": {
+            "lat": 31.423132,
+            "lng": 34.5946466
+        }
+    },
+    {
+        "Settlement Symbol": 525,
+        "Settlement Name": "\u05e1\u05d0\u05d2'\u05d5\u05e8",
+        "Determining Score": 53,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.9428596,
+            "lng": 35.3417247
+        }
+    },
+    {
+        "Settlement Symbol": 578,
+        "Settlement Name": "\u05e1\u05d0\u05e1\u05d0",
+        "Determining Score": 86,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.02866,
+            "lng": 35.394569
+        }
+    },
+    {
+        "Settlement Symbol": 3756,
+        "Settlement Name": "\u05e1\u05d5\u05e1\u05d9\u05d4",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.391051,
+            "lng": 35.110978
+        }
+    },
+    {
+        "Settlement Symbol": 1238,
+        "Settlement Name": "\u05e1\u05d5\u05e4\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.238309,
+            "lng": 34.341987
+        }
+    },
+    {
+        "Settlement Symbol": 7500,
+        "Settlement Name": "\u05e1\u05d7'\u05e0\u05d9\u05df",
+        "Determining Score": 43,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.8621403,
+            "lng": 35.2996234
+        }
+    },
+    {
+        "Settlement Symbol": 1245,
+        "Settlement Name": "\u05e1\u05dc\u05de\u05d4",
+        "Determining Score": 64,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.893248,
+            "lng": 35.370499
+        }
+    },
+    {
+        "Settlement Symbol": 1156,
+        "Settlement Name": "\u05e1\u05de\u05e8",
+        "Determining Score": 93,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 29.833968,
+            "lng": 35.022204
+        }
+    },
+    {
+        "Settlement Symbol": 419,
+        "Settlement Name": "\u05e1\u05e2\u05d3",
+        "Determining Score": 68,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.47018499999999,
+            "lng": 34.534356
+        }
+    },
+    {
+        "Settlement Symbol": 454,
+        "Settlement Name": "\u05e1\u05e2\u05e8",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 33.028689,
+            "lng": 35.109232
+        }
+    },
+    {
+        "Settlement Symbol": 1176,
+        "Settlement Name": "\u05e1\u05e4\u05d9\u05e8",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.5090643,
+            "lng": 34.5944391
+        }
+    },
+    {
+        "Settlement Symbol": 4501,
+        "Settlement Name": "\u05e2'\u05d2'\u05e8",
+        "Determining Score": 93,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 33.272607,
+            "lng": 35.623637
+        }
+    },
+    {
+        "Settlement Symbol": 892,
+        "Settlement Name": "\u05e2\u05d1\u05d3\u05d5\u05df",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.048792,
+            "lng": 35.179128
+        }
+    },
+    {
+        "Settlement Symbol": 376,
+        "Settlement Name": "\u05e2\u05d1\u05e8\u05d5\u05df",
+        "Determining Score": 53,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.991149,
+            "lng": 35.100031
+        }
+    },
+    {
+        "Settlement Symbol": 328,
+        "Settlement Name": "\u05e2\u05d6\u05d5\u05d6",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.792202,
+            "lng": 34.472404
+        }
+    },
+    {
+        "Settlement Symbol": 1175,
+        "Settlement Name": "\u05e2\u05d9\u05d3\u05df",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.806291,
+            "lng": 35.299946
+        }
+    },
+    {
+        "Settlement Symbol": 546,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d0\u05dc-\u05d0\u05e1\u05d3",
+        "Determining Score": 61,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.940754,
+            "lng": 35.401027
+        }
+    },
+    {
+        "Settlement Symbol": 273,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d2\u05d1",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.783393,
+            "lng": 35.640119
+        }
+    },
+    {
+        "Settlement Symbol": 2042,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d2\u05d3\u05d9",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.451191,
+            "lng": 35.383571
+        }
+    },
+    {
+        "Settlement Symbol": 1240,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d4\u05d1\u05e9\u05d5\u05e8",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.280895,
+            "lng": 34.443446
+        }
+    },
+    {
+        "Settlement Symbol": 289,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d4\u05de\u05e4\u05e8\u05e5",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.902581,
+            "lng": 35.09303999999999
+        }
+    },
+    {
+        "Settlement Symbol": 383,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d4\u05e0\u05e6\u05d9\"\u05d1",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.47071,
+            "lng": 35.501973
+        }
+    },
+    {
+        "Settlement Symbol": 676,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.351722,
+            "lng": 34.403471
+        }
+    },
+    {
+        "Settlement Symbol": 4503,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d6\u05d9\u05d5\u05d5\u05df",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.09645,
+            "lng": 35.796313
+        }
+    },
+    {
+        "Settlement Symbol": 1053,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d7\u05e6\u05d1\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.797209,
+            "lng": 35.24534
+        }
+    },
+    {
+        "Settlement Symbol": 806,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d9\u05d4\u05d1",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.6574941,
+            "lng": 35.2367899
+        }
+    },
+    {
+        "Settlement Symbol": 813,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05d9\u05e2\u05e7\u05d1",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.009312,
+            "lng": 35.229024
+        }
+    },
+    {
+        "Settlement Symbol": 4502,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05e7\u05e0\u05d9\u05d9\u05d0",
+        "Determining Score": 93,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 33.2366802,
+            "lng": 35.7313062
+        }
+    },
+    {
+        "Settlement Symbol": 1251,
+        "Settlement Name": "\u05e2\u05d9\u05df \u05ea\u05de\u05e8",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.943594,
+            "lng": 35.37407
+        }
+    },
+    {
+        "Settlement Symbol": 1187,
+        "Settlement Name": "\u05e2\u05d9\u05e8 \u05d0\u05d5\u05d1\u05d5\u05ea",
+        "Determining Score": 25,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 30.808967,
+            "lng": 35.244389
+        }
+    },
+    {
+        "Settlement Symbol": 7600,
+        "Settlement Name": "\u05e2\u05db\u05d5",
+        "Determining Score": 43,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 186000,
+        "location": {
+            "lat": 32.933052,
+            "lng": 35.082678
+        }
+    },
+    {
+        "Settlement Symbol": 1146,
+        "Settlement Name": "\u05e2\u05dc\u05d5\u05de\u05d9\u05dd",
+        "Determining Score": 85,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.453049,
+            "lng": 34.514711
+        }
+    },
+    {
+        "Settlement Symbol": 688,
+        "Settlement Name": "\u05e2\u05dc\u05de\u05d4",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.05186,
+            "lng": 35.499636
+        }
+    },
+    {
+        "Settlement Symbol": 1212,
+        "Settlement Name": "\u05e2\u05de\u05d5\u05e7\u05d4",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.997669,
+            "lng": 35.524801
+        }
+    },
+    {
+        "Settlement Symbol": 385,
+        "Settlement Name": "\u05e2\u05de\u05d9\u05e2\u05d3",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.930354,
+            "lng": 35.54052100000001
+        }
+    },
+    {
+        "Settlement Symbol": 318,
+        "Settlement Name": "\u05e2\u05de\u05d9\u05e2\u05d5\u05d6",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.248463,
+            "lng": 34.413404
+        }
+    },
+    {
+        "Settlement Symbol": 319,
+        "Settlement Name": "\u05e2\u05de\u05d9\u05e8",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.17772610000001,
+            "lng": 35.6198305
+        }
+    },
+    {
+        "Settlement Symbol": 708,
+        "Settlement Name": "\u05e2\u05de\u05e7\u05d4",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.977664,
+            "lng": 35.161807
+        }
+    },
+    {
+        "Settlement Symbol": 917,
+        "Settlement Name": "\u05e2\u05e6\u05de\u05d5\u05df \u05e9\u05d2\u05d1",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.865802,
+            "lng": 35.252335
+        }
+    },
+    {
+        "Settlement Symbol": 531,
+        "Settlement Name": "\u05e2\u05e8\u05d0\u05d1\u05d4",
+        "Determining Score": 60,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.8530087,
+            "lng": 35.3361947
+        }
+    },
+    {
+        "Settlement Symbol": 1246,
+        "Settlement Name": "\u05e2\u05e8\u05d0\u05de\u05e9\u05d4*",
+        "Determining Score": 93,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.088834,
+            "lng": 35.228839
+        }
+    },
+    {
+        "Settlement Symbol": 1335,
+        "Settlement Name": "\u05e2\u05e8\u05d1 \u05d0\u05dc \u05e0\u05e2\u05d9\u05dd",
+        "Determining Score": 67,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.888073,
+            "lng": 35.290128
+        }
+    },
+    {
+        "Settlement Symbol": 2560,
+        "Settlement Name": "\u05e2\u05e8\u05d3",
+        "Determining Score": 68,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 31.26125469999999,
+            "lng": 35.2152179
+        }
+    },
+    {
+        "Settlement Symbol": 1192,
+        "Settlement Name": "\u05e2\u05e8\u05e2\u05e8\u05d4-\u05d1\u05e0\u05d2\u05d1",
+        "Determining Score": 75,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 31.1654944,
+            "lng": 35.0333713
+        }
+    },
+    {
+        "Settlement Symbol": 3748,
+        "Settlement Name": "\u05e2\u05ea\u05e0\u05d9\u05d0\u05dc",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.438812,
+            "lng": 35.028163
+        }
+    },
+    {
+        "Settlement Symbol": 1151,
+        "Settlement Name": "\u05e4\u05d0\u05e8\u05df",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.362646,
+            "lng": 35.155149
+        }
+    },
+    {
+        "Settlement Symbol": 750,
+        "Settlement Name": "\u05e4\u05d3\u05d5\u05d9\u05d9\u05dd",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.326275,
+            "lng": 34.612069
+        }
+    },
+    {
+        "Settlement Symbol": 1104,
+        "Settlement Name": "\u05e4\u05d5\u05e8\u05d9\u05d9\u05d4 - \u05db\u05e4\u05e8 \u05e2\u05d1\u05d5\u05d3\u05d4",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.719846,
+            "lng": 35.545563
+        }
+    },
+    {
+        "Settlement Symbol": 1105,
+        "Settlement Name": "\u05e4\u05d5\u05e8\u05d9\u05d9\u05d4 - \u05e0\u05d5\u05d5\u05d4 \u05e2\u05d5\u05d1\u05d3",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.743763,
+            "lng": 35.53811
+        }
+    },
+    {
+        "Settlement Symbol": 1313,
+        "Settlement Name": "\u05e4\u05d5\u05e8\u05d9\u05d9\u05d4 \u05e2\u05d9\u05dc\u05d9\u05ea",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.732736,
+            "lng": 35.546162
+        }
+    },
+    {
+        "Settlement Symbol": 749,
+        "Settlement Name": "\u05e4\u05d8\u05d9\u05e9",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.3259948,
+            "lng": 34.563565
+        }
+    },
+    {
+        "Settlement Symbol": 1185,
+        "Settlement Name": "\u05e4\u05dc\u05da",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.93367,
+            "lng": 35.23361
+        }
+    },
+    {
+        "Settlement Symbol": 3723,
+        "Settlement Name": "\u05e4\u05e0\u05d9 \u05d7\u05d1\u05e8",
+        "Determining Score": 64,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.487074,
+            "lng": 35.1651
+        }
+    },
+    {
+        "Settlement Symbol": 535,
+        "Settlement Name": "\u05e4\u05e1\u05d5\u05d8\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 33.04782,
+            "lng": 35.308827
+        }
+    },
+    {
+        "Settlement Symbol": 2059,
+        "Settlement Name": "\u05e4\u05e2\u05de\u05d9 \u05ea\u05e9\"\u05d6",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.437967,
+            "lng": 34.692875
+        }
+    },
+    {
+        "Settlement Symbol": 3615,
+        "Settlement Name": "\u05e4\u05e6\u05d0\u05dc",
+        "Determining Score": 62,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.043492,
+            "lng": 35.443753
+        }
+    },
+    {
+        "Settlement Symbol": 536,
+        "Settlement Name": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df (\u05d1\u05d5\u05e7\u05d9\u05d9\u05e2\u05d4)",
+        "Determining Score": 68,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 32.9787353,
+            "lng": 35.33336329999999
+        }
+    },
+    {
+        "Settlement Symbol": 281,
+        "Settlement Name": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df \u05d7\u05d3\u05e9\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.982195,
+            "lng": 35.323408
+        }
+    },
+    {
+        "Settlement Symbol": 599,
+        "Settlement Name": "\u05e4\u05e8\u05d5\u05d3",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.933066,
+            "lng": 35.434318
+        }
+    },
+    {
+        "Settlement Symbol": 1231,
+        "Settlement Name": "\u05e4\u05e8\u05d9 \u05d2\u05df",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.222015,
+            "lng": 34.355936
+        }
+    },
+    {
+        "Settlement Symbol": 413,
+        "Settlement Name": "\u05e6\u05d0\u05dc\u05d9\u05dd",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.203909,
+            "lng": 34.533359
+        }
+    },
+    {
+        "Settlement Symbol": 1180,
+        "Settlement Name": "\u05e6\u05d1\u05d9\u05d4",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.8894,
+            "lng": 35.3314
+        }
+    },
+    {
+        "Settlement Symbol": 1213,
+        "Settlement Name": "\u05e6\u05d1\u05e2\u05d5\u05df",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.026363,
+            "lng": 35.416723
+        }
+    },
+    {
+        "Settlement Symbol": 1136,
+        "Settlement Name": "\u05e6\u05d5\u05d7\u05e8",
+        "Determining Score": 45,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.23717,
+            "lng": 34.426444
+        }
+    },
+    {
+        "Settlement Symbol": 1150,
+        "Settlement Name": "\u05e6\u05d5\u05e4\u05e8",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.559394,
+            "lng": 35.181474
+        }
+    },
+    {
+        "Settlement Symbol": 1262,
+        "Settlement Name": "\u05e6\u05d5\u05e7\u05d9\u05dd",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 30.491551,
+            "lng": 35.165443
+        }
+    },
+    {
+        "Settlement Symbol": 774,
+        "Settlement Name": "\u05e6\u05d5\u05e8\u05d9\u05d0\u05dc",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.006488,
+            "lng": 35.31479
+        }
+    },
+    {
+        "Settlement Symbol": 1221,
+        "Settlement Name": "\u05e6\u05d5\u05e8\u05d9\u05ea",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.902351,
+            "lng": 35.249106
+        }
+    },
+    {
+        "Settlement Symbol": 8000,
+        "Settlement Name": "\u05e6\u05e4\u05ea",
+        "Determining Score": 72,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.964648,
+            "lng": 35.495997
+        }
+    },
+    {
+        "Settlement Symbol": 4025,
+        "Settlement Name": "\u05e7\u05d3\u05de\u05ea \u05e6\u05d1\u05d9",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 33.029485,
+            "lng": 35.69774400000001
+        }
+    },
+    {
+        "Settlement Symbol": 1211,
+        "Settlement Name": "\u05e7\u05d3\u05e8\u05d9\u05dd",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.898886,
+            "lng": 35.471565
+        }
+    },
+    {
+        "Settlement Symbol": 1179,
+        "Settlement Name": "\u05e7\u05d5\u05e8\u05e0\u05d9\u05ea",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.84441200000001,
+            "lng": 35.251883
+        }
+    },
+    {
+        "Settlement Symbol": 1052,
+        "Settlement Name": "\u05e7\u05d8\u05d5\u05e8\u05d4",
+        "Determining Score": 86,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 29.97088699999999,
+            "lng": 35.06135500000001
+        }
+    },
+    {
+        "Settlement Symbol": 414,
+        "Settlement Name": "\u05e7\u05dc\u05d7\u05d9\u05dd",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.449795,
+            "lng": 34.679092
+        }
+    },
+    {
+        "Settlement Symbol": 3601,
+        "Settlement Name": "\u05e7\u05dc\u05d9\u05d4",
+        "Determining Score": 57,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.749896,
+            "lng": 35.466131
+        }
+    },
+    {
+        "Settlement Symbol": 4024,
+        "Settlement Name": "\u05e7\u05dc\u05e2",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 33.131601,
+            "lng": 35.69039
+        }
+    },
+    {
+        "Settlement Symbol": 1347,
+        "Settlement Name": "\u05e7\u05e6\u05e8 \u05d0-\u05e1\u05e8",
+        "Determining Score": 75,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.083329,
+            "lng": 34.979579
+        }
+    },
+    {
+        "Settlement Symbol": 4100,
+        "Settlement Name": "\u05e7\u05e6\u05e8\u05d9\u05df",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.990998,
+            "lng": 35.689865
+        }
+    },
+    {
+        "Settlement Symbol": 3611,
+        "Settlement Name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d0\u05e8\u05d1\u05e2",
+        "Determining Score": 60,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.529326,
+            "lng": 35.115625
+        }
+    },
+    {
+        "Settlement Symbol": 2800,
+        "Settlement Name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4",
+        "Determining Score": 76,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 33.20809,
+            "lng": 35.5699622
+        }
+    },
+    {
+        "Settlement Symbol": 4006,
+        "Settlement Name": "\u05e7\u05e9\u05ea",
+        "Determining Score": 93,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 543,
+        "Settlement Name": "\u05e8\u05d0\u05de\u05d4",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.9374389,
+            "lng": 35.366515
+        }
+    },
+    {
+        "Settlement Symbol": 1334,
+        "Settlement Name": "\u05e8\u05d0\u05e1 \u05d0\u05dc-\u05e2\u05d9\u05df",
+        "Determining Score": 60,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.915734,
+            "lng": 35.372703
+        }
+    },
+    {
+        "Settlement Symbol": 26,
+        "Settlement Name": "\u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.9690188,
+            "lng": 35.5428591
+        }
+    },
+    {
+        "Settlement Symbol": 354,
+        "Settlement Name": "\u05e8\u05d1\u05d9\u05d1\u05d9\u05dd",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.045195,
+            "lng": 34.72108600000001
+        }
+    },
+    {
+        "Settlement Symbol": 1225,
+        "Settlement Name": "\u05e8\u05d1\u05d9\u05d3",
+        "Determining Score": 40,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.850619,
+            "lng": 35.464074
+        }
+    },
+    {
+        "Settlement Symbol": 390,
+        "Settlement Name": "\u05e8\u05d2\u05d1\u05d4",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.977493,
+            "lng": 35.099129
+        }
+    },
+    {
+        "Settlement Symbol": 1161,
+        "Settlement Name": "\u05e8\u05d4\u05d8",
+        "Determining Score": 57,
+        "Rate 2024": 0.16,
+        "Ceiling 2024": 226560,
+        "location": {
+            "lat": 31.3951375,
+            "lng": 34.7533591
+        }
+    },
+    {
+        "Settlement Symbol": 362,
+        "Settlement Name": "\u05e8\u05d5\u05d7\u05de\u05d4",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.497378,
+            "lng": 34.705165
+        }
+    },
+    {
+        "Settlement Symbol": 3619,
+        "Settlement Name": "\u05e8\u05d5\u05e2\u05d9",
+        "Determining Score": 62,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.24751,
+            "lng": 35.48948
+        }
+    },
+    {
+        "Settlement Symbol": 3782,
+        "Settlement Name": "\u05e8\u05d5\u05ea\u05dd",
+        "Determining Score": 86,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.3366,
+            "lng": 35.518576
+        }
+    },
+    {
+        "Settlement Symbol": 854,
+        "Settlement Name": "\u05e8\u05d7\u05d5\u05d1",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.451099,
+            "lng": 35.489598
+        }
+    },
+    {
+        "Settlement Symbol": 540,
+        "Settlement Name": "\u05e8\u05d9\u05d7\u05d0\u05e0\u05d9\u05d9\u05d4",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.049922,
+            "lng": 35.487062
+        }
+    },
+    {
+        "Settlement Symbol": 4702,
+        "Settlement Name": "\u05e8\u05de\u05d5\u05ea",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.850365,
+            "lng": 35.665245
+        }
+    },
+    {
+        "Settlement Symbol": 372,
+        "Settlement Name": "\u05e8\u05de\u05d5\u05ea \u05e0\u05e4\u05ea\u05dc\u05d9",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.102354,
+            "lng": 35.553313
+        }
+    },
+    {
+        "Settlement Symbol": 4029,
+        "Settlement Name": "\u05e8\u05de\u05ea \u05d8\u05e8\u05d0\u05de\u05e4",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 4701,
+        "Settlement Name": "\u05e8\u05de\u05ea \u05de\u05d2\u05e9\u05d9\u05de\u05d9\u05dd",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.84406600000001,
+            "lng": 35.80658
+        }
+    },
+    {
+        "Settlement Symbol": 789,
+        "Settlement Name": "\u05e8\u05e0\u05df",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.33871,
+            "lng": 34.600358
+        }
+    },
+    {
+        "Settlement Symbol": 713,
+        "Settlement Name": "\u05e8\u05e2\u05d9\u05dd",
+        "Determining Score": 76,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.386159,
+            "lng": 34.458823
+        }
+    },
+    {
+        "Settlement Symbol": 1228,
+        "Settlement Name": "\u05e8\u05e7\u05e4\u05ea",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1260,
+        "Settlement Name": "\u05e8\u05ea\u05de\u05d9\u05dd",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.05401,
+            "lng": 34.690902
+        }
+    },
+    {
+        "Settlement Symbol": 324,
+        "Settlement Name": "\u05e9\u05d0\u05e8 \u05d9\u05e9\u05d5\u05d1",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.2263492,
+            "lng": 35.6468357
+        }
+    },
+    {
+        "Settlement Symbol": 282,
+        "Settlement Name": "\u05e9\u05d1\u05d9 \u05e6\u05d9\u05d5\u05df",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.982079,
+            "lng": 35.083005
+        }
+    },
+    {
+        "Settlement Symbol": 1286,
+        "Settlement Name": "\u05e9\u05d2\u05d1-\u05e9\u05dc\u05d5\u05dd",
+        "Determining Score": 67,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 31.19711719999999,
+            "lng": 34.8383843
+        }
+    },
+    {
+        "Settlement Symbol": 304,
+        "Settlement Name": "\u05e9\u05d3\u05d4 \u05d0\u05dc\u05d9\u05d4\u05d5",
+        "Determining Score": 93,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.441882,
+            "lng": 35.513803
+        }
+    },
+    {
+        "Settlement Symbol": 861,
+        "Settlement Name": "\u05e9\u05d3\u05d4 \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.04647,
+            "lng": 35.56525
+        }
+    },
+    {
+        "Settlement Symbol": 885,
+        "Settlement Name": "\u05e9\u05d3\u05d4 \u05d1\u05d5\u05e7\u05e8",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 30.873611,
+            "lng": 34.793098
+        }
+    },
+    {
+        "Settlement Symbol": 36,
+        "Settlement Name": "\u05e9\u05d3\u05d4 \u05d3\u05d5\u05d3",
+        "Determining Score": 27,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.577476,
+            "lng": 34.683443
+        }
+    },
+    {
+        "Settlement Symbol": 259,
+        "Settlement Name": "\u05e9\u05d3\u05d4 \u05e0\u05d7\u05d5\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.525068,
+            "lng": 35.480855
+        }
+    },
+    {
+        "Settlement Symbol": 329,
+        "Settlement Name": "\u05e9\u05d3\u05d4 \u05e0\u05d7\u05de\u05d9\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.188234,
+            "lng": 35.62307
+        }
+    },
+    {
+        "Settlement Symbol": 1058,
+        "Settlement Name": "\u05e9\u05d3\u05d4 \u05e0\u05d9\u05e6\u05df",
+        "Determining Score": 45,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.230035,
+            "lng": 34.418363
+        }
+    },
+    {
+        "Settlement Symbol": 2049,
+        "Settlement Name": "\u05e9\u05d3\u05d4 \u05e6\u05d1\u05d9",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.448747,
+            "lng": 34.713234
+        }
+    },
+    {
+        "Settlement Symbol": 1223,
+        "Settlement Name": "\u05e9\u05d3\u05d9 \u05d0\u05d1\u05e8\u05d4\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.211594,
+            "lng": 34.335692
+        }
+    },
+    {
+        "Settlement Symbol": 2057,
+        "Settlement Name": "\u05e9\u05d3\u05d9 \u05ea\u05e8\u05d5\u05de\u05d5\u05ea",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.440898,
+            "lng": 35.484204
+        }
+    },
+    {
+        "Settlement Symbol": 3578,
+        "Settlement Name": "\u05e9\u05d3\u05de\u05d5\u05ea \u05de\u05d7\u05d5\u05dc\u05d4",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.347731,
+            "lng": 35.530587
+        }
+    },
+    {
+        "Settlement Symbol": 1031,
+        "Settlement Name": "\u05e9\u05d3\u05e8\u05d5\u05ea",
+        "Determining Score": 58,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.52269399999999,
+            "lng": 34.595581
+        }
+    },
+    {
+        "Settlement Symbol": 761,
+        "Settlement Name": "\u05e9\u05d5\u05d1\u05d4",
+        "Determining Score": 68,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.44995,
+            "lng": 34.545496
+        }
+    },
+    {
+        "Settlement Symbol": 394,
+        "Settlement Name": "\u05e9\u05d5\u05d1\u05dc",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.413734,
+            "lng": 34.745814
+        }
+    },
+    {
+        "Settlement Symbol": 614,
+        "Settlement Name": "\u05e9\u05d5\u05de\u05e8\u05d4",
+        "Determining Score": 65,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1265,
+        "Settlement Name": "\u05e9\u05d5\u05de\u05e8\u05d9\u05d9\u05d4",
+        "Determining Score": 60,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.432154,
+            "lng": 34.88409499999999
+        }
+    },
+    {
+        "Settlement Symbol": 415,
+        "Settlement Name": "\u05e9\u05d5\u05e7\u05d3\u05d4",
+        "Determining Score": 62,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.422098,
+            "lng": 34.524383
+        }
+    },
+    {
+        "Settlement Symbol": 1235,
+        "Settlement Name": "\u05e9\u05d5\u05e8\u05e9\u05d9\u05dd",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.892651,
+            "lng": 35.25856
+        }
+    },
+    {
+        "Settlement Symbol": 527,
+        "Settlement Name": "\u05e9\u05d6\u05d5\u05e8",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.933936,
+            "lng": 35.354523
+        }
+    },
+    {
+        "Settlement Symbol": 1266,
+        "Settlement Name": "\u05e9\u05d7\u05e8\u05d5\u05ea",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 29.904093,
+            "lng": 34.999173
+        }
+    },
+    {
+        "Settlement Symbol": 865,
+        "Settlement Name": "\u05e9\u05d9\u05d1\u05d5\u05dc\u05d9\u05dd",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.396398,
+            "lng": 34.608144
+        }
+    },
+    {
+        "Settlement Symbol": 1267,
+        "Settlement Name": "\u05e9\u05d9\u05d8\u05d9\u05dd",
+        "Determining Score": 11,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 30.176442,
+            "lng": 35.016722
+        }
+    },
+    {
+        "Settlement Symbol": 658,
+        "Settlement Name": "\u05e9\u05d9\u05d9\u05d7' \u05d3\u05e0\u05d5\u05df",
+        "Determining Score": 60,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.9938295,
+            "lng": 35.14856839999999
+        }
+    },
+    {
+        "Settlement Symbol": 1160,
+        "Settlement Name": "\u05e9\u05db\u05e0\u05d9\u05d4",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.849186,
+            "lng": 35.246701
+        }
+    },
+    {
+        "Settlement Symbol": 873,
+        "Settlement Name": "\u05e9\u05dc\u05d5\u05d5\u05d4",
+        "Determining Score": 33,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.7676565,
+            "lng": 35.1874158
+        }
+    },
+    {
+        "Settlement Symbol": 1373,
+        "Settlement Name": "\u05e9\u05dc\u05d5\u05d5\u05d4 \u05d1\u05de\u05d3\u05d1\u05e8",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 30.767942,
+            "lng": 35.2772213
+        }
+    },
+    {
+        "Settlement Symbol": 812,
+        "Settlement Name": "\u05e9\u05dc\u05d5\u05de\u05d9",
+        "Determining Score": 62,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 33.072609,
+            "lng": 35.145945
+        }
+    },
+    {
+        "Settlement Symbol": 1364,
+        "Settlement Name": "\u05e9\u05dc\u05d5\u05de\u05d9\u05ea",
+        "Determining Score": 76,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.1673893,
+            "lng": 34.3033322
+        }
+    },
+    {
+        "Settlement Symbol": 366,
+        "Settlement Name": "\u05e9\u05de\u05d9\u05e8",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.166754,
+            "lng": 35.659949
+        }
+    },
+    {
+        "Settlement Symbol": 3784,
+        "Settlement Name": "\u05e9\u05de\u05e2\u05d4",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.387342,
+            "lng": 35.012699
+        }
+    },
+    {
+        "Settlement Symbol": 432,
+        "Settlement Name": "\u05e9\u05de\u05e8\u05ea",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.95148,
+            "lng": 35.094955
+        }
+    },
+    {
+        "Settlement Symbol": 1287,
+        "Settlement Name": "\u05e9\u05e0\u05d9",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.355797,
+            "lng": 35.070097
+        }
+    },
+    {
+        "Settlement Symbol": 1132,
+        "Settlement Name": "\u05e9\u05e0\u05d9\u05e8",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 33.240338,
+            "lng": 35.677015
+        }
+    },
+    {
+        "Settlement Symbol": 538,
+        "Settlement Name": "\u05e9\u05e2\u05d1",
+        "Determining Score": 64,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.890853,
+            "lng": 35.2404921
+        }
+    },
+    {
+        "Settlement Symbol": 4009,
+        "Settlement Name": "\u05e9\u05e2\u05dc",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 33.11653,
+            "lng": 35.718816
+        }
+    },
+    {
+        "Settlement Symbol": 264,
+        "Settlement Name": "\u05e9\u05e2\u05e8 \u05d4\u05d2\u05d5\u05dc\u05df",
+        "Determining Score": 76,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.686919,
+            "lng": 35.604656
+        }
+    },
+    {
+        "Settlement Symbol": 846,
+        "Settlement Name": "\u05e9\u05e4\u05e8",
+        "Determining Score": 51,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 32.944553,
+            "lng": 35.437848
+        }
+    },
+    {
+        "Settlement Symbol": 1233,
+        "Settlement Name": "\u05e9\u05e7\u05e3",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.51489,
+            "lng": 34.937318
+        }
+    },
+    {
+        "Settlement Symbol": 398,
+        "Settlement Name": "\u05e9\u05e8\u05e9\u05e8\u05ea",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1045,
+        "Settlement Name": "\u05e9\u05ea\u05d5\u05dc\u05d4",
+        "Determining Score": 70,
+        "Rate 2024": 0.13999999999999999,
+        "Ceiling 2024": 219960,
+        "location": {
+            "lat": 33.085919,
+            "lng": 35.315627
+        }
+    },
+    {
+        "Settlement Symbol": 2062,
+        "Settlement Name": "\u05ea\u05d0\u05e9\u05d5\u05e8",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.371709,
+            "lng": 34.643547
+        }
+    },
+    {
+        "Settlement Symbol": 2061,
+        "Settlement Name": "\u05ea\u05d3\u05d4\u05e8",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": null
+    },
+    {
+        "Settlement Symbol": 1172,
+        "Settlement Name": "\u05ea\u05d5\u05d1\u05dc",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 32.928495,
+            "lng": 35.245675
+        }
+    },
+    {
+        "Settlement Symbol": 1083,
+        "Settlement Name": "\u05ea\u05d5\u05e9\u05d9\u05d9\u05d4",
+        "Determining Score": 68,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.432895,
+            "lng": 34.541314
+        }
+    },
+    {
+        "Settlement Symbol": 719,
+        "Settlement Name": "\u05ea\u05dc \u05e7\u05e6\u05d9\u05e8",
+        "Determining Score": 65,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.706396,
+            "lng": 35.61786
+        }
+    },
+    {
+        "Settlement Symbol": 1054,
+        "Settlement Name": "\u05ea\u05dc \u05e9\u05d1\u05e2",
+        "Determining Score": 67,
+        "Rate 2024": 0.18,
+        "Ceiling 2024": 259920,
+        "location": {
+            "lat": 31.2450731,
+            "lng": 34.8603822
+        }
+    },
+    {
+        "Settlement Symbol": 1283,
+        "Settlement Name": "\u05ea\u05dc \u05ea\u05d0\u05d5\u05de\u05d9\u05dd",
+        "Determining Score": 70,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 32.442537,
+            "lng": 35.496409
+        }
+    },
+    {
+        "Settlement Symbol": 3719,
+        "Settlement Name": "\u05ea\u05dc\u05dd",
+        "Determining Score": 53,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.563051,
+            "lng": 35.03124
+        }
+    },
+    {
+        "Settlement Symbol": 1051,
+        "Settlement Name": "\u05ea\u05dc\u05de\u05d9 \u05d0\u05dc\u05d9\u05d4\u05d5",
+        "Determining Score": 45,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.229611,
+            "lng": 34.429114
+        }
+    },
+    {
+        "Settlement Symbol": 2050,
+        "Settlement Name": "\u05ea\u05dc\u05de\u05d9 \u05d1\u05d9\u05dc\"\u05d5",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.438055,
+            "lng": 34.644823
+        }
+    },
+    {
+        "Settlement Symbol": 1237,
+        "Settlement Name": "\u05ea\u05dc\u05de\u05d9 \u05d9\u05d5\u05e1\u05e3",
+        "Determining Score": 70,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.199958,
+            "lng": 34.363751
+        }
+    },
+    {
+        "Settlement Symbol": 814,
+        "Settlement Name": "\u05ea\u05dc\u05de\u05d9\u05dd",
+        "Determining Score": 33,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.563416,
+            "lng": 34.67199799999999
+        }
+    },
+    {
+        "Settlement Symbol": 709,
+        "Settlement Name": "\u05ea\u05e4\u05e8\u05d7",
+        "Determining Score": 67,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.324471,
+            "lng": 34.679236
+        }
+    },
+    {
+        "Settlement Symbol": 665,
+        "Settlement Name": "\u05ea\u05e7\u05d5\u05de\u05d4",
+        "Determining Score": 62,
+        "Rate 2024": 0.2,
+        "Ceiling 2024": 267840,
+        "location": {
+            "lat": 31.448536,
+            "lng": 34.578085
+        }
+    },
+    {
+        "Settlement Symbol": 1346,
+        "Settlement Name": "\u05ea\u05e8\u05d1\u05d9\u05df \u05d0-\u05e6\u05d0\u05e0\u05e2 (\u05d9\u05d9\u05e9\u05d5\u05d1)*",
+        "Determining Score": 67,
+        "Rate 2024": 0.12,
+        "Ceiling 2024": 213240,
+        "location": {
+            "lat": 31.345481,
+            "lng": 34.739126
+        }
+    },
+    {
+        "Settlement Symbol": 1365,
+        "Settlement Name": "\u05d0\u05dc\u05d9\u05d0\u05d1",
+        "Determining Score": 32,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.530203,
+            "lng": 34.928414
+        }
+    },
+    {
+        "Settlement Symbol": 1368,
+        "Settlement Name": "\u05d1\u05e0\u05d9 \u05d3\u05e7\u05dc\u05d9\u05dd",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.517188,
+            "lng": 34.917033
+        }
+    },
+    {
+        "Settlement Symbol": 1369,
+        "Settlement Name": "\u05e0\u05d8\u05e2",
+        "Determining Score": 37,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.477893,
+            "lng": 34.927774
+        }
+    },
+    {
+        "Settlement Symbol": 3777,
+        "Settlement Name": "\u05e1\u05e0\u05e1\u05e0\u05d4",
+        "Determining Score": 43,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.36176499999999,
+            "lng": 34.901003
+        }
+    },
+    {
+        "Settlement Symbol": 1341,
+        "Settlement Name": "\u05e8\u05d5\u05d7 \u05de\u05d3\u05d1\u05e8",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 30.98153499999999,
+            "lng": 34.733883
+        }
+    },
+    {
+        "Settlement Symbol": 1374,
+        "Settlement Name": "\u05db\u05e8\u05de\u05d9 \u05e7\u05d8\u05d9\u05e3",
+        "Determining Score": 27,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.537825,
+            "lng": 34.911993
+        }
+    },
+    {
+        "Settlement Symbol": 1377,
+        "Settlement Name": "\u05e9\u05d1\u05d9 \u05d3\u05e8\u05d5\u05dd",
+        "Determining Score": 53,
+        "Rate 2024": 0.1,
+        "Ceiling 2024": 180000,
+        "location": {
+            "lat": 31.46637699999999,
+            "lng": 34.638576
+        }
+    },
+    {
+        "Settlement Symbol": 1378,
+        "Settlement Name": "\u05e9\u05d9\u05d6\u05e3",
+        "Determining Score": 45,
+        "Rate 2024": 0.07,
+        "Ceiling 2024": 146640,
+        "location": {
+            "lat": 31.001742,
+            "lng": 34.765444
+        }
+    }
+]
