@@ -23,7 +23,7 @@ export const useCities = () => {
     async function fetchJson() {
       try {
         setLoading(true);
-        const response = await fetch(filePath);
+        const response = await fetch(import.meta.env.BASE_URL + filePath);
         if (!response.ok) {
           throw new Error(`Failed to fetch JSON: ${response.statusText}`);
         }
