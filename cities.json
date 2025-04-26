@@ -1,0 +1,5238 @@
+[
+    {
+        "symbol": 473,
+        "name": "\u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df",
+        "score": 50,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.95803,
+            "lng": 35.171969
+        }
+    },
+    {
+        "symbol": 1342,
+        "name": "\u05d0\u05d1\u05d5 \u05e7\u05d5\u05e8\u05d9\u05e0\u05d0\u05ea (\u05d9\u05d9\u05e9\u05d5\u05d1)",
+        "score": 75,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.103115,
+            "lng": 34.952003
+        }
+    },
+    {
+        "symbol": 1375,
+        "name": "\u05d0\u05d1\u05d5 \u05ea\u05dc\u05d5\u05dc",
+        "score": 75,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.142612,
+            "lng": 34.913514
+        }
+    },
+    {
+        "symbol": 1115,
+        "name": "\u05d0\u05d1\u05d9\u05d1\u05d9\u05dd",
+        "score": 76,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.089381,
+            "lng": 35.470338
+        }
+    },
+    {
+        "symbol": 1220,
+        "name": "\u05d0\u05d1\u05d9\u05e8\u05d9\u05dd",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.038086,
+            "lng": 35.286044
+        }
+    },
+    {
+        "symbol": 1081,
+        "name": "\u05d0\u05d1\u05df \u05de\u05e0\u05d7\u05dd",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.075143,
+            "lng": 35.295219
+        }
+    },
+    {
+        "symbol": 400,
+        "name": "\u05d0\u05d1\u05df \u05e9\u05de\u05d5\u05d0\u05dc",
+        "score": 33,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.576429,
+            "lng": 34.762963
+        }
+    },
+    {
+        "symbol": 4011,
+        "name": "\u05d0\u05d1\u05e0\u05d9 \u05d0\u05d9\u05ea\u05df",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.824808,
+            "lng": 35.765777
+        }
+    },
+    {
+        "symbol": 3786,
+        "name": "\u05d0\u05d1\u05e0\u05ea",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.679039,
+            "lng": 35.436945
+        }
+    },
+    {
+        "symbol": 1311,
+        "name": "\u05d0\u05d1\u05e9\u05dc\u05d5\u05dd",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.195397,
+            "lng": 34.3312
+        }
+    },
+    {
+        "symbol": 3759,
+        "name": "\u05d0\u05d3\u05d5\u05e8\u05d4",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.552219,
+            "lng": 35.017634
+        }
+    },
+    {
+        "symbol": 1068,
+        "name": "\u05d0\u05d3\u05de\u05d9\u05ea",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.078842,
+            "lng": 35.20951
+        }
+    },
+    {
+        "symbol": 4010,
+        "name": "\u05d0\u05d5\u05d3\u05dd",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.1933716,
+            "lng": 35.7495651
+        }
+    },
+    {
+        "symbol": 1046,
+        "name": "\u05d0\u05d5\u05d4\u05d3",
+        "score": 45,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.238436,
+            "lng": 34.431893
+        }
+    },
+    {
+        "symbol": 1358,
+        "name": "\u05d0\u05d5\u05dd \u05d1\u05d8\u05d9\u05df",
+        "score": 67,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.27674369999999,
+            "lng": 34.8829215
+        }
+    },
+    {
+        "symbol": 31,
+        "name": "\u05d0\u05d5\u05e4\u05e7\u05d9\u05dd",
+        "score": 60,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 31.3067541,
+            "lng": 34.6197998
+        }
+    },
+    {
+        "symbol": 1294,
+        "name": "\u05d0\u05d5\u05e8 \u05d4\u05d2\u05e0\u05d5\u05d6",
+        "score": 97,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.005183,
+            "lng": 35.446736
+        }
+    },
+    {
+        "symbol": 67,
+        "name": "\u05d0\u05d5\u05e8 \u05d4\u05e0\u05e8",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.556197,
+            "lng": 34.602305
+        }
+    },
+    {
+        "symbol": 4013,
+        "name": "\u05d0\u05d5\u05e8\u05d8\u05dc",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.086236,
+            "lng": 35.758661
+        }
+    },
+    {
+        "symbol": 403,
+        "name": "\u05d0\u05d5\u05e8\u05d9\u05dd",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.304094,
+            "lng": 34.524868
+        }
+    },
+    {
+        "symbol": 821,
+        "name": "\u05d0\u05d7\u05d5\u05d6\u05dd",
+        "score": 27,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.552682,
+            "lng": 34.770151
+        }
+    },
+    {
+        "symbol": 785,
+        "name": "\u05d0\u05d7\u05d9\u05d4\u05d5\u05d3",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.907405,
+            "lng": 35.171715
+        }
+    },
+    {
+        "symbol": 338,
+        "name": "\u05d0\u05d9\u05d1\u05d9\u05dd",
+        "score": 82,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.533597,
+            "lng": 34.609697
+        }
+    },
+    {
+        "symbol": 77,
+        "name": "\u05d0\u05d9\u05d9\u05dc\u05ea \u05d4\u05e9\u05d7\u05e8",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 33.021115,
+            "lng": 35.576732
+        }
+    },
+    {
+        "symbol": 294,
+        "name": "\u05d0\u05d9\u05dc\u05d5\u05df",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.062526,
+            "lng": 35.219162
+        }
+    },
+    {
+        "symbol": 1126,
+        "name": "\u05d0\u05d9\u05dc\u05d5\u05ea",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 29.580548,
+            "lng": 34.963023
+        }
+    },
+    {
+        "symbol": 37,
+        "name": "\u05d0\u05d9\u05ea\u05df",
+        "score": 33,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.572213,
+            "lng": 34.747909
+        }
+    },
+    {
+        "symbol": 4003,
+        "name": "\u05d0\u05dc -\u05e8\u05d5\u05dd",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.180519,
+            "lng": 35.770095
+        }
+    },
+    {
+        "symbol": 1359,
+        "name": "\u05d0\u05dc \u05e1\u05d9\u05d9\u05d3",
+        "score": 67,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.281719,
+            "lng": 34.916298
+        }
+    },
+    {
+        "symbol": 330,
+        "name": "\u05d0\u05dc\u05d5\u05de\u05d5\u05ea",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.706628,
+            "lng": 35.546088
+        }
+    },
+    {
+        "symbol": 4017,
+        "name": "\u05d0\u05dc\u05d5\u05e0\u05d9 \u05d4\u05d1\u05e9\u05df",
+        "score": 86,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.044087,
+            "lng": 35.838507
+        }
+    },
+    {
+        "symbol": 4002,
+        "name": "\u05d0\u05dc\u05d9-\u05e2\u05d3",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.806583,
+            "lng": 35.73657499999999
+        }
+    },
+    {
+        "symbol": 1248,
+        "name": "\u05d0\u05dc\u05d9\u05e4\u05d6",
+        "score": 86,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 29.79624799999999,
+            "lng": 35.012094
+        }
+    },
+    {
+        "symbol": 730,
+        "name": "\u05d0\u05dc\u05d9\u05e4\u05dc\u05d8",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.947834,
+            "lng": 35.548516
+        }
+    },
+    {
+        "symbol": 1125,
+        "name": "\u05d0\u05dc\u05de\u05d2\u05d5\u05e8",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.912709,
+            "lng": 35.60231
+        }
+    },
+    {
+        "symbol": 603,
+        "name": "\u05d0\u05dc\u05e7\u05d5\u05e9",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.034294,
+            "lng": 35.326348
+        }
+    },
+    {
+        "symbol": 1064,
+        "name": "\u05d0\u05de\u05d9\u05e8\u05d9\u05dd",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.937351,
+            "lng": 35.45036500000001
+        }
+    },
+    {
+        "symbol": 1253,
+        "name": "\u05d0\u05de\u05e0\u05d5\u05df",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.904989,
+            "lng": 35.571136
+        }
+    },
+    {
+        "symbol": 23,
+        "name": "\u05d0\u05de\u05e6\u05d9\u05d4",
+        "score": 33,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.531176,
+            "lng": 34.914463
+        }
+    },
+    {
+        "symbol": 4012,
+        "name": "\u05d0\u05e0\u05d9\u05e2\u05dd",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.956638,
+            "lng": 35.739718
+        }
+    },
+    {
+        "symbol": 3754,
+        "name": "\u05d0\u05e1\u05e4\u05e8",
+        "score": 64,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.586152,
+            "lng": 35.187594
+        }
+    },
+    {
+        "symbol": 4301,
+        "name": "\u05d0\u05e4\u05d9\u05e7",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.779428,
+            "lng": 35.702994
+        }
+    },
+    {
+        "symbol": 176,
+        "name": "\u05d0\u05e4\u05d9\u05e7\u05d9\u05dd",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.680564,
+            "lng": 35.57773
+        }
+    },
+    {
+        "symbol": 3598,
+        "name": "\u05d0\u05e8\u05d2\u05de\u05df",
+        "score": 62,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.17334,
+            "lng": 35.522285
+        }
+    },
+    {
+        "symbol": 714,
+        "name": "\u05d0\u05e8\u05d6",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.55984,
+            "lng": 34.564889
+        }
+    },
+    {
+        "symbol": 71,
+        "name": "\u05d0\u05e9\u05d1\u05d5\u05dc",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.44551599999999,
+            "lng": 34.666654
+        }
+    },
+    {
+        "symbol": 1276,
+        "name": "\u05d0\u05e9\u05d1\u05dc",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.876984,
+            "lng": 35.30601
+        }
+    },
+    {
+        "symbol": 199,
+        "name": "\u05d0\u05e9\u05d3\u05d5\u05ea \u05d9\u05e2\u05e7\u05d1 (\u05d0\u05d9\u05d7\u05d5\u05d3)",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.65877,
+            "lng": 35.579637
+        }
+    },
+    {
+        "symbol": 188,
+        "name": "\u05d0\u05e9\u05d3\u05d5\u05ea \u05d9\u05e2\u05e7\u05d1 (\u05de\u05d0\u05d5\u05d7\u05d3)",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.664808,
+            "lng": 35.582769
+        }
+    },
+    {
+        "symbol": 1188,
+        "name": "\u05d0\u05e9\u05d7\u05e8",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.885084,
+            "lng": 35.299622
+        }
+    },
+    {
+        "symbol": 3722,
+        "name": "\u05d0\u05e9\u05db\u05d5\u05dc\u05d5\u05ea",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.391171,
+            "lng": 34.904856
+        }
+    },
+    {
+        "symbol": 2021,
+        "name": "\u05d0\u05e9\u05dc \u05d4\u05e0\u05e9\u05d9\u05d0",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.326828,
+            "lng": 34.697497
+        }
+    },
+    {
+        "symbol": 1152,
+        "name": "\u05d0\u05e9\u05dc\u05d9\u05dd",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 30.964245,
+            "lng": 34.699674
+        }
+    },
+    {
+        "symbol": 1256,
+        "name": "\u05d0\u05e9\u05e8\u05ea",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.971645,
+            "lng": 35.1557
+        }
+    },
+    {
+        "symbol": 21,
+        "name": "\u05d1\u05d0\u05e8 \u05d0\u05d5\u05e8\u05d4",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 29.710166,
+            "lng": 34.987218
+        }
+    },
+    {
+        "symbol": 1278,
+        "name": "\u05d1\u05d0\u05e8 \u05de\u05d9\u05dc\u05db\u05d4",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.934112,
+            "lng": 34.405643
+        }
+    },
+    {
+        "symbol": 399,
+        "name": "\u05d1\u05d0\u05e8\u05d9",
+        "score": 93,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.424513,
+            "lng": 34.492567
+        }
+    },
+    {
+        "symbol": 559,
+        "name": "\u05d1\u05d5\u05e1\u05ea\u05df \u05d4\u05d2\u05dc\u05d9\u05dc",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.948636,
+            "lng": 35.08068799999999
+        }
+    },
+    {
+        "symbol": 4001,
+        "name": "\u05d1\u05d5\u05e7\u05e2\u05d0\u05ea\u05d0",
+        "score": 93,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.2026572,
+            "lng": 35.7767723
+        }
+    },
+    {
+        "symbol": 762,
+        "name": "\u05d1\u05d8\u05d7\u05d4",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.333869,
+            "lng": 34.634318
+        }
+    },
+    {
+        "symbol": 1348,
+        "name": "\u05d1\u05d9\u05e8 \u05d4\u05d3\u05d0\u05d2'",
+        "score": 75,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.02316,
+            "lng": 34.709138
+        }
+    },
+    {
+        "symbol": 368,
+        "name": "\u05d1\u05d9\u05e8\u05d9\u05d9\u05d4",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.978108,
+            "lng": 35.503096
+        }
+    },
+    {
+        "symbol": 480,
+        "name": "\u05d1\u05d9\u05ea \u05d2'\u05df",
+        "score": 86,
+        "rate": 0.13999999999999999,
+        "ceiling": 259920,
+        "location": {
+            "lat": 32.9651552,
+            "lng": 35.37935360000001
+        }
+    },
+    {
+        "symbol": 723,
+        "name": "\u05d1\u05d9\u05ea \u05d4\u05d2\u05d3\u05d9",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.422839,
+            "lng": 34.607878
+        }
+    },
+    {
+        "symbol": 322,
+        "name": "\u05d1\u05d9\u05ea \u05d4\u05dc\u05dc",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.208782,
+            "lng": 35.606515
+        }
+    },
+    {
+        "symbol": 572,
+        "name": "\u05d1\u05d9\u05ea \u05d4\u05e2\u05de\u05e7",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.971014,
+            "lng": 35.145305
+        }
+    },
+    {
+        "symbol": 3645,
+        "name": "\u05d1\u05d9\u05ea \u05d4\u05e2\u05e8\u05d1\u05d4",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.807762,
+            "lng": 35.476411
+        }
+    },
+    {
+        "symbol": 143,
+        "name": "\u05d1\u05d9\u05ea \u05d6\u05e8\u05e2",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.689296,
+            "lng": 35.574062
+        }
+    },
+    {
+        "symbol": 265,
+        "name": "\u05d1\u05d9\u05ea \u05d9\u05d5\u05e1\u05e3",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.558698,
+            "lng": 35.55277299999999
+        }
+    },
+    {
+        "symbol": 598,
+        "name": "\u05d1\u05d9\u05ea \u05e7\u05de\u05d4",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.446566,
+            "lng": 34.762248
+        }
+    },
+    {
+        "symbol": 9200,
+        "name": "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df",
+        "score": 68,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.497103,
+            "lng": 35.497336
+        }
+    },
+    {
+        "symbol": 712,
+        "name": "\u05d1\u05df \u05e2\u05de\u05d9",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 33.005369,
+            "lng": 35.122218
+        }
+    },
+    {
+        "symbol": 4015,
+        "name": "\u05d1\u05e0\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 1363,
+        "name": "\u05d1\u05e0\u05d9 \u05e0\u05e6\u05e8\u05d9\u05dd",
+        "score": 86,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.143513,
+            "lng": 34.316403
+        }
+    },
+    {
+        "symbol": 483,
+        "name": "\u05d1\u05e2\u05e0\u05d4",
+        "score": 54,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.929538,
+            "lng": 35.27191699999999
+        }
+    },
+    {
+        "symbol": 589,
+        "name": "\u05d1\u05e6\u05ea",
+        "score": 57,
+        "rate": 0.12000000000000001,
+        "ceiling": 186600,
+        "location": {
+            "lat": 33.070047,
+            "lng": 35.132636
+        }
+    },
+    {
+        "symbol": 1191,
+        "name": "\u05d1\u05e8 \u05d9\u05d5\u05d7\u05d0\u05d9",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.997704,
+            "lng": 35.44819
+        }
+    },
+    {
+        "symbol": 428,
+        "name": "\u05d1\u05e8\u05d5\u05e8 \u05d7\u05d9\u05dc",
+        "score": 22,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.55698499999999,
+            "lng": 34.646547
+        }
+    },
+    {
+        "symbol": 2060,
+        "name": "\u05d1\u05e8\u05d5\u05e9",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 667,
+        "name": "\u05d1\u05e8\u05e2\u05dd",
+        "score": 97,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.058979,
+            "lng": 35.433235
+        }
+    },
+    {
+        "symbol": 1292,
+        "name": "\u05d2'\u05d3\u05d9\u05d9\u05d3\u05d4-\u05de\u05db\u05e8",
+        "score": 50,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.928656,
+            "lng": 35.150573
+        }
+    },
+    {
+        "symbol": 485,
+        "name": "\u05d2'\u05d5\u05dc\u05e1",
+        "score": 33,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 47.8990111,
+            "lng": 16.9093319
+        }
+    },
+    {
+        "symbol": 487,
+        "name": "\u05d2'\u05e9 (\u05d2\u05d5\u05e9 \u05d7\u05dc\u05d1)",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.021266,
+            "lng": 35.447949
+        }
+    },
+    {
+        "symbol": 352,
+        "name": "\u05d2\u05d1\u05d5\u05dc\u05d5\u05ea",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.211168,
+            "lng": 34.466199
+        }
+    },
+    {
+        "symbol": 424,
+        "name": "\u05d2\u05d1\u05d9\u05dd",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.506273,
+            "lng": 34.598949
+        }
+    },
+    {
+        "symbol": 2014,
+        "name": "\u05d2\u05d1\u05e2\u05d5\u05dc\u05d9\u05dd",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.397604,
+            "lng": 34.593821
+        }
+    },
+    {
+        "symbol": 1344,
+        "name": "\u05d2\u05d1\u05e2\u05d5\u05ea \u05d1\u05e8",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.357209,
+            "lng": 34.755541
+        }
+    },
+    {
+        "symbol": 4021,
+        "name": "\u05d2\u05d1\u05e2\u05ea \u05d9\u05d5\u05d0\u05d1",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.801217,
+            "lng": 35.680911
+        }
+    },
+    {
+        "symbol": 342,
+        "name": "\u05d2\u05d1\u05e8\u05e2\u05dd",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.591461,
+            "lng": 34.612156
+        }
+    },
+    {
+        "symbol": 35,
+        "name": "\u05d2\u05d3\u05d5\u05ea",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 33.018208,
+            "lng": 35.619547
+        }
+    },
+    {
+        "symbol": 852,
+        "name": "\u05d2\u05d5\u05e0\u05df",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 33.1240353,
+            "lng": 35.6461519
+        }
+    },
+    {
+        "symbol": 755,
+        "name": "\u05d2\u05d5\u05e8\u05df",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.055566,
+            "lng": 35.233619
+        }
+    },
+    {
+        "symbol": 1219,
+        "name": "\u05d2\u05d5\u05e8\u05e0\u05d5\u05ea \u05d4\u05d2\u05dc\u05d9\u05dc",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.059286,
+            "lng": 35.24967
+        }
+    },
+    {
+        "symbol": 1204,
+        "name": "\u05d2\u05d9\u05dc\u05d5\u05df",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.904338,
+            "lng": 35.232191
+        }
+    },
+    {
+        "symbol": 736,
+        "name": "\u05d2\u05d9\u05dc\u05ea",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.326321,
+            "lng": 34.648934
+        }
+    },
+    {
+        "symbol": 262,
+        "name": "\u05d2\u05d9\u05e0\u05d5\u05e1\u05e8",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.848666,
+            "lng": 35.523152
+        }
+    },
+    {
+        "symbol": 1206,
+        "name": "\u05d2\u05d9\u05ea\u05d4",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.967233,
+            "lng": 35.249125
+        }
+    },
+    {
+        "symbol": 463,
+        "name": "\u05d2\u05e2\u05ea\u05d5\u05df",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 33.006075,
+            "lng": 35.213831
+        }
+    },
+    {
+        "symbol": 1129,
+        "name": "\u05d2\u05e8\u05d5\u05e4\u05d9\u05ea",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 29.941617,
+            "lng": 35.064691
+        }
+    },
+    {
+        "symbol": 4022,
+        "name": "\u05d2\u05e9\u05d5\u05e8",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.819941,
+            "lng": 35.715708
+        }
+    },
+    {
+        "symbol": 305,
+        "name": "\u05d2\u05e9\u05e8",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.621205,
+            "lng": 35.550376
+        }
+    },
+    {
+        "symbol": 574,
+        "name": "\u05d2\u05e9\u05e8 \u05d4\u05d6\u05d9\u05d5",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 33.040532,
+            "lng": 35.110563
+        }
+    },
+    {
+        "symbol": 849,
+        "name": "\u05d3\u05d1\u05d9\u05e8\u05d4",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.411699,
+            "lng": 34.825177
+        }
+    },
+    {
+        "symbol": 62,
+        "name": "\u05d3\u05d2\u05e0\u05d9\u05d4 \u05d0'",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.706938,
+            "lng": 35.575062
+        }
+    },
+    {
+        "symbol": 79,
+        "name": "\u05d3\u05d2\u05e0\u05d9\u05d4 \u05d1'",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.69907,
+            "lng": 35.577551
+        }
+    },
+    {
+        "symbol": 1067,
+        "name": "\u05d3\u05d5\u05d1\"\u05d1",
+        "score": 76,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.0508,
+            "lng": 35.407747
+        }
+    },
+    {
+        "symbol": 336,
+        "name": "\u05d3\u05d5\u05e8\u05d5\u05ea",
+        "score": 22,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.507207,
+            "lng": 34.645725
+        }
+    },
+    {
+        "symbol": 490,
+        "name": "\u05d3\u05d9\u05d9\u05e8 \u05d0\u05dc-\u05d0\u05e1\u05d3",
+        "score": 43,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.93445,
+            "lng": 35.268394
+        }
+    },
+    {
+        "symbol": 492,
+        "name": "\u05d3\u05d9\u05d9\u05e8 \u05d7\u05e0\u05d0",
+        "score": 53,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.8622818,
+            "lng": 35.3662265
+        }
+    },
+    {
+        "symbol": 2200,
+        "name": "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4",
+        "score": 51,
+        "rate": 0.16,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.069419,
+            "lng": 35.033363
+        }
+    },
+    {
+        "symbol": 2063,
+        "name": "\u05d3\u05d9\u05e9\u05d5\u05df",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.082318,
+            "lng": 35.517572
+        }
+    },
+    {
+        "symbol": 431,
+        "name": "\u05d3\u05dc\u05ea\u05d5\u05df",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.016553,
+            "lng": 35.489911
+        }
+    },
+    {
+        "symbol": 303,
+        "name": "\u05d3\u05df",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": null
+    },
+    {
+        "symbol": 302,
+        "name": "\u05d3\u05e4\u05e0\u05d4",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.23075,
+            "lng": 35.638268
+        }
+    },
+    {
+        "symbol": 1241,
+        "name": "\u05d3\u05e7\u05dc",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": null
+    },
+    {
+        "symbol": 1349,
+        "name": "\u05d3\u05e8\u05d9\u05d2'\u05d0\u05ea",
+        "score": 75,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.301885,
+            "lng": 35.076793
+        }
+    },
+    {
+        "symbol": 702,
+        "name": "\u05d4\u05d0\u05d5\u05df",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.726748,
+            "lng": 35.622665
+        }
+    },
+    {
+        "symbol": 356,
+        "name": "\u05d4\u05d2\u05d5\u05e9\u05e8\u05d9\u05dd",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.221485,
+            "lng": 35.623028
+        }
+    },
+    {
+        "symbol": 1208,
+        "name": "\u05d4\u05d9\u05dc\u05d4",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.036175,
+            "lng": 35.244582
+        }
+    },
+    {
+        "symbol": 1261,
+        "name": "\u05d4\u05e8 \u05e2\u05de\u05e9\u05d0",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.342717,
+            "lng": 35.101599
+        }
+    },
+    {
+        "symbol": 1203,
+        "name": "\u05d4\u05e8\u05e8\u05d9\u05ea",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.845696,
+            "lng": 35.369257
+        }
+    },
+    {
+        "symbol": 584,
+        "name": "\u05d6\u05d9\u05e7\u05d9\u05dd",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.607204,
+            "lng": 34.520968
+        }
+    },
+    {
+        "symbol": 1065,
+        "name": "\u05d6\u05de\u05e8\u05ea",
+        "score": 62,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.447853,
+            "lng": 34.552288
+        }
+    },
+    {
+        "symbol": 2064,
+        "name": "\u05d6\u05e8\u05d5\u05e2\u05d4",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.459133,
+            "lng": 34.624161
+        }
+    },
+    {
+        "symbol": 3764,
+        "name": "\u05d7\u05d2\u05d9",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 4026,
+        "name": "\u05d7\u05d3-\u05e0\u05e1",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.927514,
+            "lng": 35.641408
+        }
+    },
+    {
+        "symbol": 1239,
+        "name": "\u05d7\u05d5\u05dc\u05d9\u05ea",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.230563,
+            "lng": 34.32734
+        }
+    },
+    {
+        "symbol": 253,
+        "name": "\u05d7\u05d5\u05dc\u05ea\u05d4",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 33.052851,
+            "lng": 35.609244
+        }
+    },
+    {
+        "symbol": 662,
+        "name": "\u05d7\u05d5\u05e1\u05df",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.997699,
+            "lng": 35.298723
+        }
+    },
+    {
+        "symbol": 1332,
+        "name": "\u05d7\u05d5\u05e1\u05e0\u05d9\u05d9\u05d4",
+        "score": 64,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.900573,
+            "lng": 35.322507
+        }
+    },
+    {
+        "symbol": 374,
+        "name": "\u05d7\u05d5\u05e7\u05d5\u05e7",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.878631,
+            "lng": 35.496654
+        }
+    },
+    {
+        "symbol": 1303,
+        "name": "\u05d7\u05d5\u05e8\u05d4",
+        "score": 67,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 31.2997256,
+            "lng": 34.935863
+        }
+    },
+    {
+        "symbol": 496,
+        "name": "\u05d7\u05d5\u05e8\u05e4\u05d9\u05e9",
+        "score": 76,
+        "rate": 0.13999999999999999,
+        "ceiling": 259920,
+        "location": {
+            "lat": 33.016688,
+            "lng": 35.347106
+        }
+    },
+    {
+        "symbol": 1047,
+        "name": "\u05d7\u05d6\u05d5\u05df",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.90658,
+            "lng": 35.395291
+        }
+    },
+    {
+        "symbol": 1272,
+        "name": "\u05d7\u05dc\u05d5\u05e5",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 820,
+        "name": "\u05d7\u05dc\u05e5",
+        "score": 33,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.57794,
+            "lng": 34.658391
+        }
+    },
+    {
+        "symbol": 343,
+        "name": "\u05d7\u05de\u05d3\u05d9\u05d4",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.519773,
+            "lng": 35.520568
+        }
+    },
+    {
+        "symbol": 3646,
+        "name": "\u05d7\u05de\u05d3\u05ea",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.252028,
+            "lng": 35.526843
+        }
+    },
+    {
+        "symbol": 280,
+        "name": "\u05d7\u05e0\u05d9\u05ea\u05d4",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.087634,
+            "lng": 35.17343
+        }
+    },
+    {
+        "symbol": 4005,
+        "name": "\u05d7\u05e1\u05e4\u05d9\u05df",
+        "score": 93,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.8456305,
+            "lng": 35.7929907
+        }
+    },
+    {
+        "symbol": 13,
+        "name": "\u05d7\u05e6\u05d1\u05d4",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.767942,
+            "lng": 35.278498
+        }
+    },
+    {
+        "symbol": 2034,
+        "name": "\u05d7\u05e6\u05d5\u05e8 \u05d4\u05d2\u05dc\u05d9\u05dc\u05d9\u05ea",
+        "score": 61,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.980382,
+            "lng": 35.543548
+        }
+    },
+    {
+        "symbol": 397,
+        "name": "\u05d7\u05e6\u05e8\u05d9\u05dd",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.240603,
+            "lng": 34.717427
+        }
+    },
+    {
+        "symbol": 1209,
+        "name": "\u05d7\u05e8\u05e9\u05d9\u05dd",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.957737,
+            "lng": 35.328217
+        }
+    },
+    {
+        "symbol": 6700,
+        "name": "\u05d8\u05d1\u05e8\u05d9\u05d4",
+        "score": 53,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.795859,
+            "lng": 35.530973
+        }
+    },
+    {
+        "symbol": 962,
+        "name": "\u05d8\u05d5\u05d1\u05d0-\u05d6\u05e0\u05d2\u05e8\u05d9\u05d9\u05d4",
+        "score": 68,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.96621,
+            "lng": 35.592018
+        }
+    },
+    {
+        "symbol": 268,
+        "name": "\u05d8\u05d9\u05e8\u05ea \u05e6\u05d1\u05d9",
+        "score": 86,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.422486,
+            "lng": 35.52832
+        }
+    },
+    {
+        "symbol": 1181,
+        "name": "\u05d8\u05dc-\u05d0\u05dc",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.927306,
+            "lng": 35.182499
+        }
+    },
+    {
+        "symbol": 1177,
+        "name": "\u05d8\u05dc\u05dc\u05d9\u05dd",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 30.991511,
+            "lng": 34.771261
+        }
+    },
+    {
+        "symbol": 8900,
+        "name": "\u05d8\u05de\u05e8\u05d4",
+        "score": 50,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.8552512,
+            "lng": 35.1859141
+        }
+    },
+    {
+        "symbol": 3743,
+        "name": "\u05d8\u05e0\u05d0",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 1214,
+        "name": "\u05d8\u05e4\u05d7\u05d5\u05ea",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": null
+    },
+    {
+        "symbol": 1295,
+        "name": "\u05d9\u05d0\u05e0\u05d5\u05d7-\u05d2'\u05ea",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.981568,
+            "lng": 35.241169
+        }
+    },
+    {
+        "symbol": 1232,
+        "name": "\u05d9\u05d1\u05d5\u05dc",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.189458,
+            "lng": 34.318952
+        }
+    },
+    {
+        "symbol": 358,
+        "name": "\u05d9\u05d3 \u05de\u05e8\u05d3\u05db\u05d9",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.586963,
+            "lng": 34.5575
+        }
+    },
+    {
+        "symbol": 1158,
+        "name": "\u05d9\u05d4\u05dc",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.084234,
+            "lng": 35.128393
+        }
+    },
+    {
+        "symbol": 2009,
+        "name": "\u05d9\u05d5\u05d1\u05dc",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": null
+    },
+    {
+        "symbol": 1226,
+        "name": "\u05d9\u05d5\u05d1\u05dc\u05d9\u05dd",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.878163,
+            "lng": 35.269294
+        }
+    },
+    {
+        "symbol": 4007,
+        "name": "\u05d9\u05d5\u05e0\u05ea\u05df",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.93966,
+            "lng": 35.795468
+        }
+    },
+    {
+        "symbol": 803,
+        "name": "\u05d9\u05d5\u05e9\u05d9\u05d1\u05d9\u05d4",
+        "score": 60,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.444699,
+            "lng": 34.608784
+        }
+    },
+    {
+        "symbol": 409,
+        "name": "\u05d9\u05d7\u05d9\u05e2\u05dd",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.996109,
+            "lng": 35.22109100000001
+        }
+    },
+    {
+        "symbol": 866,
+        "name": "\u05d9\u05d8\u05d1\u05ea\u05d4",
+        "score": 93,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 29.896322,
+            "lng": 35.059227
+        }
+    },
+    {
+        "symbol": 811,
+        "name": "\u05d9\u05db\u05d9\u05e0\u05d9",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.482205,
+            "lng": 34.598634
+        }
+    },
+    {
+        "symbol": 29,
+        "name": "\u05d9\u05e1\u05d5\u05d3 \u05d4\u05de\u05e2\u05dc\u05d4",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.05358,
+            "lng": 35.589013
+        }
+    },
+    {
+        "symbol": 575,
+        "name": "\u05d9\u05e1\u05e2\u05d5\u05e8",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.901145,
+            "lng": 35.166641
+        }
+    },
+    {
+        "symbol": 1138,
+        "name": "\u05d9\u05e2\u05d3",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.881225,
+            "lng": 35.24064
+        }
+    },
+    {
+        "symbol": 795,
+        "name": "\u05d9\u05e2\u05e8\u05d4",
+        "score": 70,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.068013,
+            "lng": 35.18608
+        }
+    },
+    {
+        "symbol": 3566,
+        "name": "\u05d9\u05e4\u05d9\u05ea",
+        "score": 62,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.062687,
+            "lng": 35.474317
+        }
+    },
+    {
+        "symbol": 453,
+        "name": "\u05d9\u05e4\u05ea\u05d7",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.128346,
+            "lng": 35.55202999999999
+        }
+    },
+    {
+        "symbol": 623,
+        "name": "\u05d9\u05e8\u05d0\u05d5\u05df",
+        "score": 76,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.077239,
+            "lng": 35.454291
+        }
+    },
+    {
+        "symbol": 2026,
+        "name": "\u05d9\u05e8\u05d3\u05e0\u05d4",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.565357,
+            "lng": 35.565978
+        }
+    },
+    {
+        "symbol": 831,
+        "name": "\u05d9\u05e8\u05d5\u05d7\u05dd",
+        "score": 61,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 30.9871778,
+            "lng": 34.9310463
+        }
+    },
+    {
+        "symbol": 502,
+        "name": "\u05d9\u05e8\u05db\u05d0",
+        "score": 60,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.953492,
+            "lng": 35.21199
+        }
+    },
+    {
+        "symbol": 916,
+        "name": "\u05d9\u05e9\u05e2",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.247595,
+            "lng": 34.403091
+        }
+    },
+    {
+        "symbol": 1227,
+        "name": "\u05d9\u05ea\u05d3",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.207042,
+            "lng": 34.326126
+        }
+    },
+    {
+        "symbol": 504,
+        "name": "\u05db\u05d0\u05d1\u05d5\u05dc",
+        "score": 50,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.8700114,
+            "lng": 35.2071305
+        }
+    },
+    {
+        "symbol": 576,
+        "name": "\u05db\u05d1\u05e8\u05d9",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 33.020985,
+            "lng": 35.147007
+        }
+    },
+    {
+        "symbol": 1338,
+        "name": "\u05db\u05d3\u05d9\u05ea\u05d4",
+        "score": 97,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.005954,
+            "lng": 35.468309
+        }
+    },
+    {
+        "symbol": 1252,
+        "name": "\u05db\u05d5\u05e8\u05d6\u05d9\u05dd",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.911112,
+            "lng": 35.55015
+        }
+    },
+    {
+        "symbol": 1210,
+        "name": "\u05db\u05d7\u05dc",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.89046500000001,
+            "lng": 35.511572
+        }
+    },
+    {
+        "symbol": 1367,
+        "name": "\u05db\u05d7\u05dc\u05d4",
+        "score": 75,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.287112,
+            "lng": 35.048572
+        }
+    },
+    {
+        "symbol": 840,
+        "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.374545,
+            "lng": 34.398992
+        }
+    },
+    {
+        "symbol": 1153,
+        "name": "\u05db\u05d9\u05e9\u05d5\u05e8",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.946651,
+            "lng": 35.250213
+        }
+    },
+    {
+        "symbol": 1183,
+        "name": "\u05db\u05dc\u05d9\u05dc",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.983567,
+            "lng": 35.199672
+        }
+    },
+    {
+        "symbol": 1229,
+        "name": "\u05db\u05dc\u05e0\u05d9\u05ea",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.875328,
+            "lng": 35.453972
+        }
+    },
+    {
+        "symbol": 1331,
+        "name": "\u05db\u05de\u05d0\u05e0\u05d4",
+        "score": 60,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.909311,
+            "lng": 35.336928
+        }
+    },
+    {
+        "symbol": 1291,
+        "name": "\u05db\u05de\u05d4\u05d9\u05df",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.910327,
+            "lng": 34.430725
+        }
+    },
+    {
+        "symbol": 1201,
+        "name": "\u05db\u05de\u05d5\u05df",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.909119,
+            "lng": 35.360916
+        }
+    },
+    {
+        "symbol": 4028,
+        "name": "\u05db\u05e0\u05e3",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.870412,
+            "lng": 35.697897
+        }
+    },
+    {
+        "symbol": 63,
+        "name": "\u05db\u05e0\u05e8\u05ea (\u05de\u05d5\u05e9\u05d1\u05d4)",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.7223846,
+            "lng": 35.56577740000001
+        }
+    },
+    {
+        "symbol": 57,
+        "name": "\u05db\u05e0\u05e8\u05ea (\u05e7\u05d1\u05d5\u05e6\u05d4)",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.714209,
+            "lng": 35.562746
+        }
+    },
+    {
+        "symbol": 1059,
+        "name": "\u05db\u05e1\u05d9\u05e4\u05d4",
+        "score": 75,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 31.249246,
+            "lng": 35.083681
+        }
+    },
+    {
+        "symbol": 1296,
+        "name": "\u05db\u05e1\u05e8\u05d0-\u05e1\u05de\u05d9\u05e2",
+        "score": 85,
+        "rate": 0.13999999999999999,
+        "ceiling": 259920,
+        "location": {
+            "lat": 32.9646608,
+            "lng": 35.3038834
+        }
+    },
+    {
+        "symbol": 357,
+        "name": "\u05db\u05e4\u05e8 \u05d1\u05dc\u05d5\u05dd",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.172527,
+            "lng": 35.607938
+        }
+    },
+    {
+        "symbol": 76,
+        "name": "\u05db\u05e4\u05e8 \u05d2\u05dc\u05e2\u05d3\u05d9",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.242078,
+            "lng": 35.574142
+        }
+    },
+    {
+        "symbol": 443,
+        "name": "\u05db\u05e4\u05e8 \u05d4\u05e0\u05e9\u05d9\u05d0",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.97466,
+            "lng": 35.602308
+        }
+    },
+    {
+        "symbol": 609,
+        "name": "\u05db\u05e4\u05e8 \u05d7\u05d5\u05e9\u05df",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.013123,
+            "lng": 35.440171
+        }
+    },
+    {
+        "symbol": 1297,
+        "name": "\u05db\u05e4\u05e8 \u05d7\u05e0\u05e0\u05d9\u05d4",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.915993,
+            "lng": 35.423785
+        }
+    },
+    {
+        "symbol": 4004,
+        "name": "\u05db\u05e4\u05e8 \u05d7\u05e8\u05d5\u05d1",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.762357,
+            "lng": 35.66418
+        }
+    },
+    {
+        "symbol": 507,
+        "name": "\u05db\u05e4\u05e8 \u05d9\u05d0\u05e1\u05d9\u05e3",
+        "score": 33,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.9520318,
+            "lng": 35.1599957
+        }
+    },
+    {
+        "symbol": 1095,
+        "name": "\u05db\u05e4\u05e8 \u05de\u05d9\u05de\u05d5\u05df",
+        "score": 62,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.431401,
+            "lng": 34.53718
+        }
+    },
+    {
+        "symbol": 297,
+        "name": "\u05db\u05e4\u05e8 \u05de\u05e1\u05e8\u05d9\u05e7",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.891218,
+            "lng": 35.098414
+        }
+    },
+    {
+        "symbol": 345,
+        "name": "\u05db\u05e4\u05e8 \u05e1\u05d0\u05dc\u05d3",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.196035,
+            "lng": 35.657993
+        }
+    },
+    {
+        "symbol": 845,
+        "name": "\u05db\u05e4\u05e8 \u05e2\u05d6\u05d4",
+        "score": 57,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.483416,
+            "lng": 34.532291
+        }
+    },
+    {
+        "symbol": 579,
+        "name": "\u05db\u05e4\u05e8 \u05e8\u05d0\u05e9 \u05d4\u05e0\u05e7\u05e8\u05d4",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.08609,
+            "lng": 35.113455
+        }
+    },
+    {
+        "symbol": 1130,
+        "name": "\u05db\u05e4\u05e8 \u05e8\u05d5\u05d6\u05e0\u05d5\u05d0\u05dc\u05d3 (\u05d6\u05e8\u05e2\u05d9\u05ea)",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.09898500000001,
+            "lng": 35.288522
+        }
+    },
+    {
+        "symbol": 295,
+        "name": "\u05db\u05e4\u05e8 \u05e8\u05d5\u05e4\u05d9\u05df",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.457549,
+            "lng": 35.555673
+        }
+    },
+    {
+        "symbol": 605,
+        "name": "\u05db\u05e4\u05e8 \u05e9\u05de\u05d0\u05d9",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.955698,
+            "lng": 35.457916
+        }
+    },
+    {
+        "symbol": 1285,
+        "name": "\u05db\u05e8\u05db\u05d5\u05dd",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.928271,
+            "lng": 35.606331
+        }
+    },
+    {
+        "symbol": 664,
+        "name": "\u05db\u05e8\u05dd \u05d1\u05df \u05d6\u05de\u05e8\u05d4",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.039224,
+            "lng": 35.46988899999999
+        }
+    },
+    {
+        "symbol": 1085,
+        "name": "\u05db\u05e8\u05dd \u05e9\u05dc\u05d5\u05dd",
+        "score": 76,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.228281,
+            "lng": 34.284559
+        }
+    },
+    {
+        "symbol": 1139,
+        "name": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc",
+        "score": 27,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.9085935,
+            "lng": 35.2932814
+        }
+    },
+    {
+        "symbol": 768,
+        "name": "\u05db\u05e8\u05de\u05d9\u05d9\u05d4",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.60269499999999,
+            "lng": 34.540413
+        }
+    },
+    {
+        "symbol": 1198,
+        "name": "\u05db\u05e8\u05de\u05d9\u05dd",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.333464,
+            "lng": 34.917879
+        }
+    },
+    {
+        "symbol": 3656,
+        "name": "\u05db\u05e8\u05de\u05dc",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.432786,
+            "lng": 35.182268
+        }
+    },
+    {
+        "symbol": 1207,
+        "name": "\u05dc\u05d1\u05d5\u05df",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.94118,
+            "lng": 35.286475
+        }
+    },
+    {
+        "symbol": 1230,
+        "name": "\u05dc\u05d1\u05e0\u05d9\u05dd",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.86379,
+            "lng": 35.497479
+        }
+    },
+    {
+        "symbol": 2023,
+        "name": "\u05dc\u05d4\u05d1",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 380,
+        "name": "\u05dc\u05d4\u05d1\u05d5\u05ea \u05d4\u05d1\u05e9\u05df",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 33.1412178,
+            "lng": 35.6478714
+        }
+    },
+    {
+        "symbol": 595,
+        "name": "\u05dc\u05d5\u05d7\u05de\u05d9 \u05d4\u05d2\u05d9\u05d8\u05d0\u05d5\u05ea",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.962661,
+            "lng": 35.096741
+        }
+    },
+    {
+        "symbol": 1171,
+        "name": "\u05dc\u05d5\u05d8\u05dd",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.880858,
+            "lng": 35.35996
+        }
+    },
+    {
+        "symbol": 1255,
+        "name": "\u05dc\u05d5\u05d8\u05df",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 29.988263,
+            "lng": 35.086776
+        }
+    },
+    {
+        "symbol": 674,
+        "name": "\u05dc\u05d9\u05de\u05df",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 33.058732,
+            "lng": 35.111815
+        }
+    },
+    {
+        "symbol": 1173,
+        "name": "\u05dc\u05e4\u05d9\u05d3\u05d5\u05ea",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.959801,
+            "lng": 35.260956
+        }
+    },
+    {
+        "symbol": 1060,
+        "name": "\u05dc\u05e7\u05d9\u05d4",
+        "score": 67,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 31.324884,
+            "lng": 34.866219
+        }
+    },
+    {
+        "symbol": 4204,
+        "name": "\u05de\u05d1\u05d5\u05d0 \u05d7\u05de\u05d4",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.736701,
+            "lng": 35.655207
+        }
+    },
+    {
+        "symbol": 1080,
+        "name": "\u05de\u05d1\u05d5\u05e2\u05d9\u05dd",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.44945,
+            "lng": 34.65499399999999
+        }
+    },
+    {
+        "symbol": 829,
+        "name": "\u05de\u05d1\u05d8\u05d7\u05d9\u05dd",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": null
+    },
+    {
+        "symbol": 573,
+        "name": "\u05de\u05d1\u05e7\u05d9\u05e2\u05d9\u05dd",
+        "score": 0,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.622518,
+            "lng": 34.577431
+        }
+    },
+    {
+        "symbol": 516,
+        "name": "\u05de\u05d2'\u05d3 \u05d0\u05dc-\u05db\u05e8\u05d5\u05dd",
+        "score": 50,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.920132,
+            "lng": 35.25665
+        }
+    },
+    {
+        "symbol": 4201,
+        "name": "\u05de\u05d2'\u05d3\u05dc \u05e9\u05de\u05e1",
+        "score": 93,
+        "rate": 0.2,
+        "ceiling": 259920,
+        "location": {
+            "lat": 33.2690961,
+            "lng": 35.772122
+        }
+    },
+    {
+        "symbol": 481,
+        "name": "\u05de\u05d2\u05d0\u05e8",
+        "score": 60,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.8872843,
+            "lng": 35.4091765
+        }
+    },
+    {
+        "symbol": 65,
+        "name": "\u05de\u05d2\u05d3\u05dc",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 695,
+        "name": "\u05de\u05d2\u05df",
+        "score": 76,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.298108,
+            "lng": 34.427059
+        }
+    },
+    {
+        "symbol": 1140,
+        "name": "\u05de\u05d3\u05e8\u05e9\u05ea \u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 30.852297,
+            "lng": 34.7834
+        }
+    },
+    {
+        "symbol": 1360,
+        "name": "\u05de\u05d5\u05dc\u05d3\u05d4*",
+        "score": 67,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.261071,
+            "lng": 34.975564
+        }
+    },
+    {
+        "symbol": 1163,
+        "name": "\u05de\u05d5\u05e8\u05df",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.921637,
+            "lng": 35.39481
+        }
+    },
+    {
+        "symbol": 517,
+        "name": "\u05de\u05d6\u05e8\u05e2\u05d4",
+        "score": 43,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.983652,
+            "lng": 35.098934
+        }
+    },
+    {
+        "symbol": 3599,
+        "name": "\u05de\u05d7\u05d5\u05dc\u05d4",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.365285,
+            "lng": 35.51602
+        }
+    },
+    {
+        "symbol": 1418,
+        "name": "\u05de\u05d7\u05e0\u05d4 \u05d8\u05dc\u05d9*",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 1416,
+        "name": "\u05de\u05d7\u05e0\u05d4 \u05d9\u05d5\u05db\u05d1\u05d3*",
+        "score": 11,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 29.952075,
+            "lng": 34.934344
+        }
+    },
+    {
+        "symbol": 1415,
+        "name": "\u05de\u05d7\u05e0\u05d4 \u05d9\u05e4\u05d4*",
+        "score": 5,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 1196,
+        "name": "\u05de\u05d7\u05e0\u05d4 \u05d9\u05ea\u05d9\u05e8",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.347793,
+            "lng": 35.060671
+        }
+    },
+    {
+        "symbol": 308,
+        "name": "\u05de\u05d7\u05e0\u05d9\u05d9\u05dd",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.988845,
+            "lng": 35.570375
+        }
+    },
+    {
+        "symbol": 43,
+        "name": "\u05de\u05d8\u05d5\u05dc\u05d4",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.277232,
+            "lng": 35.578235
+        }
+    },
+    {
+        "symbol": 4019,
+        "name": "\u05de\u05d9\u05e6\u05e8",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.768641,
+            "lng": 35.736356
+        }
+    },
+    {
+        "symbol": 607,
+        "name": "\u05de\u05d9\u05e8\u05d5\u05df",
+        "score": 97,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.985226,
+            "lng": 35.441643
+        }
+    },
+    {
+        "symbol": 1343,
+        "name": "\u05de\u05db\u05d7\u05d5\u05dc",
+        "score": 75,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.288515,
+            "lng": 35.075736
+        }
+    },
+    {
+        "symbol": 1202,
+        "name": "\u05de\u05db\u05de\u05e0\u05d9\u05dd",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.905865,
+            "lng": 35.32899099999999
+        }
+    },
+    {
+        "symbol": 2044,
+        "name": "\u05de\u05dc\u05d9\u05dc\u05d5\u05ea",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.389897,
+            "lng": 34.595243
+        }
+    },
+    {
+        "symbol": 596,
+        "name": "\u05de\u05dc\u05db\u05d9\u05d9\u05d4",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.098589,
+            "lng": 35.509624
+        }
+    },
+    {
+        "symbol": 1174,
+        "name": "\u05de\u05e0\u05d5\u05e3",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.853258,
+            "lng": 35.237355
+        }
+    },
+    {
+        "symbol": 1205,
+        "name": "\u05de\u05e0\u05d5\u05ea",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.038709,
+            "lng": 35.195156
+        }
+    },
+    {
+        "symbol": 48,
+        "name": "\u05de\u05e0\u05d7\u05de\u05d9\u05d4",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.66318529999999,
+            "lng": 35.555195
+        }
+    },
+    {
+        "symbol": 347,
+        "name": "\u05de\u05e0\u05e8\u05d4",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.195375,
+            "lng": 35.543728
+        }
+    },
+    {
+        "symbol": 263,
+        "name": "\u05de\u05e1\u05d3\u05d4",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.682305,
+            "lng": 35.597657
+        }
+    },
+    {
+        "symbol": 748,
+        "name": "\u05de\u05e1\u05dc\u05d5\u05dc",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.323677,
+            "lng": 34.590761
+        }
+    },
+    {
+        "symbol": 4203,
+        "name": "\u05de\u05e1\u05e2\u05d3\u05d4",
+        "score": 97,
+        "rate": 0.13999999999999999,
+        "ceiling": 259920,
+        "location": null
+    },
+    {
+        "symbol": 1082,
+        "name": "\u05de\u05e2\u05d2\u05dc\u05d9\u05dd",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.398859,
+            "lng": 34.598239
+        }
+    },
+    {
+        "symbol": 678,
+        "name": "\u05de\u05e2\u05d2\u05df",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.706344,
+            "lng": 35.600575
+        }
+    },
+    {
+        "symbol": 272,
+        "name": "\u05de\u05e2\u05d5\u05d6 \u05d7\u05d9\u05d9\u05dd",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.49407,
+            "lng": 35.550767
+        }
+    },
+    {
+        "symbol": 3657,
+        "name": "\u05de\u05e2\u05d5\u05df",
+        "score": 61,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.414592,
+            "lng": 35.163893
+        }
+    },
+    {
+        "symbol": 570,
+        "name": "\u05de\u05e2\u05d5\u05e0\u05d4",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.016894,
+            "lng": 35.263626
+        }
+    },
+    {
+        "symbol": 416,
+        "name": "\u05de\u05e2\u05d9\u05d9\u05df \u05d1\u05e8\u05d5\u05da",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.239349,
+            "lng": 35.609359
+        }
+    },
+    {
+        "symbol": 518,
+        "name": "\u05de\u05e2\u05d9\u05dc\u05d9\u05d0",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 33.027194,
+            "lng": 35.256304
+        }
+    },
+    {
+        "symbol": 4008,
+        "name": "\u05de\u05e2\u05dc\u05d4 \u05d2\u05de\u05dc\u05d0",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.88825600000001,
+            "lng": 35.685966
+        }
+    },
+    {
+        "symbol": 1063,
+        "name": "\u05de\u05e2\u05dc\u05d5\u05ea-\u05ea\u05e8\u05e9\u05d9\u05d7\u05d0",
+        "score": 68,
+        "rate": 0.13999999999999999,
+        "ceiling": 259920,
+        "location": {
+            "lat": 33.0148018,
+            "lng": 35.2768101
+        }
+    },
+    {
+        "symbol": 668,
+        "name": "\u05de\u05e4\u05dc\u05e1\u05d9\u05dd",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.50220599999999,
+            "lng": 34.561674
+        }
+    },
+    {
+        "symbol": 3745,
+        "name": "\u05de\u05e6\u05d3\u05d5\u05ea \u05d9\u05d4\u05d5\u05d3\u05d4",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.365586,
+            "lng": 35.11134
+        }
+    },
+    {
+        "symbol": 325,
+        "name": "\u05de\u05e6\u05d5\u05d1\u05d4",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 33.062312,
+            "lng": 35.155705
+        }
+    },
+    {
+        "symbol": 99,
+        "name": "\u05de\u05e6\u05e4\u05d4 \u05e8\u05de\u05d5\u05df",
+        "score": 68,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 30.6094096,
+            "lng": 34.8011766
+        }
+    },
+    {
+        "symbol": 3610,
+        "name": "\u05de\u05e6\u05e4\u05d4 \u05e9\u05dc\u05dd",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.568875,
+            "lng": 35.400367
+        }
+    },
+    {
+        "symbol": 843,
+        "name": "\u05de\u05e8\u05d2\u05dc\u05d9\u05d5\u05ea",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.216474,
+            "lng": 35.544354
+        }
+    },
+    {
+        "symbol": 4101,
+        "name": "\u05de\u05e8\u05d5\u05dd \u05d2\u05d5\u05dc\u05df",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.132583,
+            "lng": 35.77707100000001
+        }
+    },
+    {
+        "symbol": 1340,
+        "name": "\u05de\u05e8\u05d7\u05d1 \u05e2\u05dd",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 30.888022,
+            "lng": 34.828175
+        }
+    },
+    {
+        "symbol": 421,
+        "name": "\u05de\u05e9\u05d0\u05d1\u05d9 \u05e9\u05d3\u05d4",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.00404199999999,
+            "lng": 34.785029
+        }
+    },
+    {
+        "symbol": 378,
+        "name": "\u05de\u05e9\u05d2\u05d1 \u05e2\u05dd",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.247572,
+            "lng": 35.548499
+        }
+    },
+    {
+        "symbol": 3605,
+        "name": "\u05de\u05e9\u05d5\u05d0\u05d4",
+        "score": 62,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.111805,
+            "lng": 35.490255
+        }
+    },
+    {
+        "symbol": 3785,
+        "name": "\u05de\u05e9\u05db\u05d9\u05d5\u05ea",
+        "score": 97,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.317865,
+            "lng": 35.502754
+        }
+    },
+    {
+        "symbol": 732,
+        "name": "\u05de\u05e9\u05de\u05e8 \u05d4\u05d9\u05e8\u05d3\u05df",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 33.003484,
+            "lng": 35.598271
+        }
+    },
+    {
+        "symbol": 395,
+        "name": "\u05de\u05e9\u05de\u05e8 \u05d4\u05e0\u05d2\u05d1",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.364796,
+            "lng": 34.71796800000001
+        }
+    },
+    {
+        "symbol": 1184,
+        "name": "\u05de\u05ea\u05ea",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.041684,
+            "lng": 35.35669499999999
+        }
+    },
+    {
+        "symbol": 4551,
+        "name": "\u05e0\u05d0\u05d5\u05ea \u05d2\u05d5\u05dc\u05df",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.787026,
+            "lng": 35.693172
+        }
+    },
+    {
+        "symbol": 1124,
+        "name": "\u05e0\u05d0\u05d5\u05ea \u05d4\u05db\u05d9\u05db\u05e8",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.933368,
+            "lng": 35.378126
+        }
+    },
+    {
+        "symbol": 408,
+        "name": "\u05e0\u05d0\u05d5\u05ea \u05de\u05e8\u05d3\u05db\u05d9",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.159785,
+            "lng": 35.595602
+        }
+    },
+    {
+        "symbol": 1197,
+        "name": "\u05e0\u05d0\u05d5\u05ea \u05e1\u05de\u05d3\u05e8",
+        "score": 75,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.049079,
+            "lng": 35.028106
+        }
+    },
+    {
+        "symbol": 396,
+        "name": "\u05e0\u05d1\u05d8\u05d9\u05dd",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.219761,
+            "lng": 34.882488
+        }
+    },
+    {
+        "symbol": 3724,
+        "name": "\u05e0\u05d2\u05d5\u05d4\u05d5\u05ea",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.493077,
+            "lng": 34.983347
+        }
+    },
+    {
+        "symbol": 9100,
+        "name": "\u05e0\u05d4\u05e8\u05d9\u05d9\u05d4",
+        "score": 52,
+        "rate": 0.12000000000000001,
+        "ceiling": 226560,
+        "location": {
+            "lat": 33.0085361,
+            "lng": 35.0980514
+        }
+    },
+    {
+        "symbol": 4304,
+        "name": "\u05e0\u05d5\u05d1",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.832852,
+            "lng": 35.783574
+        }
+    },
+    {
+        "symbol": 1366,
+        "name": "\u05e0\u05d5\u05d5\u05d4",
+        "score": 97,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.162183,
+            "lng": 34.329827
+        }
+    },
+    {
+        "symbol": 590,
+        "name": "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d5\u05e8",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.589025,
+            "lng": 35.554544
+        }
+    },
+    {
+        "symbol": 4303,
+        "name": "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d8\u05d9\"\u05d1",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.26202,
+            "lng": 35.740574
+        }
+    },
+    {
+        "symbol": 296,
+        "name": "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d9\u05ea\u05df",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.492304,
+            "lng": 35.533119
+        }
+    },
+    {
+        "symbol": 1057,
+        "name": "\u05e0\u05d5\u05d5\u05d4 \u05d6\u05d5\u05d4\u05e8",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.152068,
+            "lng": 35.364771
+        }
+    },
+    {
+        "symbol": 1314,
+        "name": "\u05e0\u05d5\u05d5\u05d4 \u05d6\u05d9\u05d5",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.027399,
+            "lng": 35.18433
+        }
+    },
+    {
+        "symbol": 1279,
+        "name": "\u05e0\u05d5\u05d5\u05d4 \u05d7\u05e8\u05d9\u05e3",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.039793,
+            "lng": 35.03649
+        }
+    },
+    {
+        "symbol": 15,
+        "name": "\u05e0\u05d5\u05e2\u05dd",
+        "score": 33,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.568567,
+            "lng": 34.788161
+        }
+    },
+    {
+        "symbol": 844,
+        "name": "\u05e0\u05d7\u05dc \u05e2\u05d5\u05d6",
+        "score": 57,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.47267999999999,
+            "lng": 34.497675
+        }
+    },
+    {
+        "symbol": 522,
+        "name": "\u05e0\u05d7\u05e3",
+        "score": 64,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.9350929,
+            "lng": 35.3156595
+        }
+    },
+    {
+        "symbol": 1147,
+        "name": "\u05e0\u05d8\u05d5\u05e2\u05d4",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.065387,
+            "lng": 35.323406
+        }
+    },
+    {
+        "symbol": 4014,
+        "name": "\u05e0\u05d8\u05d5\u05e8",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.854068,
+            "lng": 35.752574
+        }
+    },
+    {
+        "symbol": 1195,
+        "name": "\u05e0\u05d9\u05e6\u05e0\u05d4 (\u05e7\u05d4\u05d9\u05dc\u05ea \u05d7\u05d9\u05e0\u05d5\u05da)",
+        "score": 86,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.885983,
+            "lng": 34.4225689
+        }
+    },
+    {
+        "symbol": 1280,
+        "name": "\u05e0\u05d9\u05e6\u05e0\u05d9 \u05e1\u05d9\u05e0\u05d9",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.903428,
+            "lng": 34.396679
+        }
+    },
+    {
+        "symbol": 402,
+        "name": "\u05e0\u05d9\u05e8 \u05d9\u05e6\u05d7\u05e7",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.23604,
+            "lng": 34.356702
+        }
+    },
+    {
+        "symbol": 2047,
+        "name": "\u05e0\u05d9\u05e8 \u05de\u05e9\u05d4",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.477456,
+            "lng": 34.630085
+        }
+    },
+    {
+        "symbol": 69,
+        "name": "\u05e0\u05d9\u05e8 \u05e2\u05d5\u05d6",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.309697,
+            "lng": 34.402075
+        }
+    },
+    {
+        "symbol": 348,
+        "name": "\u05e0\u05d9\u05e8 \u05e2\u05dd",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.518459,
+            "lng": 34.580544
+        }
+    },
+    {
+        "symbol": 2048,
+        "name": "\u05e0\u05d9\u05e8 \u05e2\u05e7\u05d9\u05d1\u05d0",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.469933,
+            "lng": 34.646166
+        }
+    },
+    {
+        "symbol": 602,
+        "name": "\u05e0\u05d9\u05e8\u05d9\u05dd",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.33572999999999,
+            "lng": 34.394087
+        }
+    },
+    {
+        "symbol": 4035,
+        "name": "\u05e0\u05de\u05e8\u05d5\u05d3",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": null
+    },
+    {
+        "symbol": 1143,
+        "name": "\u05e0\u05e1 \u05e2\u05de\u05d9\u05dd",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.965465,
+            "lng": 35.121588
+        }
+    },
+    {
+        "symbol": 3713,
+        "name": "\u05e0\u05e2\u05de\"\u05d4",
+        "score": 62,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.907541,
+            "lng": 35.467713
+        }
+    },
+    {
+        "symbol": 1242,
+        "name": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05e2\u05e9\u05e8\u05d4",
+        "score": 47,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.572407,
+            "lng": 34.539322
+        }
+    },
+    {
+        "symbol": 792,
+        "name": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05e9\u05d9\u05d9\u05e8\u05d4",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.991185,
+            "lng": 35.130745
+        }
+    },
+    {
+        "symbol": 246,
+        "name": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea",
+        "score": 50,
+        "rate": 0.16,
+        "ceiling": 226560,
+        "location": {
+            "lat": 31.423132,
+            "lng": 34.5946466
+        }
+    },
+    {
+        "symbol": 525,
+        "name": "\u05e1\u05d0\u05d2'\u05d5\u05e8",
+        "score": 53,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.9428596,
+            "lng": 35.3417247
+        }
+    },
+    {
+        "symbol": 578,
+        "name": "\u05e1\u05d0\u05e1\u05d0",
+        "score": 86,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.02866,
+            "lng": 35.394569
+        }
+    },
+    {
+        "symbol": 3756,
+        "name": "\u05e1\u05d5\u05e1\u05d9\u05d4",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.391051,
+            "lng": 35.110978
+        }
+    },
+    {
+        "symbol": 1238,
+        "name": "\u05e1\u05d5\u05e4\u05d4",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.238309,
+            "lng": 34.341987
+        }
+    },
+    {
+        "symbol": 7500,
+        "name": "\u05e1\u05d7'\u05e0\u05d9\u05df",
+        "score": 43,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.8621403,
+            "lng": 35.2996234
+        }
+    },
+    {
+        "symbol": 1245,
+        "name": "\u05e1\u05dc\u05de\u05d4",
+        "score": 64,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.893248,
+            "lng": 35.370499
+        }
+    },
+    {
+        "symbol": 1156,
+        "name": "\u05e1\u05de\u05e8",
+        "score": 93,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 29.833968,
+            "lng": 35.022204
+        }
+    },
+    {
+        "symbol": 419,
+        "name": "\u05e1\u05e2\u05d3",
+        "score": 68,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.47018499999999,
+            "lng": 34.534356
+        }
+    },
+    {
+        "symbol": 454,
+        "name": "\u05e1\u05e2\u05e8",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 33.028689,
+            "lng": 35.109232
+        }
+    },
+    {
+        "symbol": 1176,
+        "name": "\u05e1\u05e4\u05d9\u05e8",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.5090643,
+            "lng": 34.5944391
+        }
+    },
+    {
+        "symbol": 4501,
+        "name": "\u05e2'\u05d2'\u05e8",
+        "score": 93,
+        "rate": 0.2,
+        "ceiling": 259920,
+        "location": {
+            "lat": 33.272607,
+            "lng": 35.623637
+        }
+    },
+    {
+        "symbol": 892,
+        "name": "\u05e2\u05d1\u05d3\u05d5\u05df",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.048792,
+            "lng": 35.179128
+        }
+    },
+    {
+        "symbol": 376,
+        "name": "\u05e2\u05d1\u05e8\u05d5\u05df",
+        "score": 53,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.991149,
+            "lng": 35.100031
+        }
+    },
+    {
+        "symbol": 328,
+        "name": "\u05e2\u05d6\u05d5\u05d6",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.792202,
+            "lng": 34.472404
+        }
+    },
+    {
+        "symbol": 1175,
+        "name": "\u05e2\u05d9\u05d3\u05df",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.806291,
+            "lng": 35.299946
+        }
+    },
+    {
+        "symbol": 546,
+        "name": "\u05e2\u05d9\u05df \u05d0\u05dc-\u05d0\u05e1\u05d3",
+        "score": 61,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.940754,
+            "lng": 35.401027
+        }
+    },
+    {
+        "symbol": 273,
+        "name": "\u05e2\u05d9\u05df \u05d2\u05d1",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.783393,
+            "lng": 35.640119
+        }
+    },
+    {
+        "symbol": 2042,
+        "name": "\u05e2\u05d9\u05df \u05d2\u05d3\u05d9",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.451191,
+            "lng": 35.383571
+        }
+    },
+    {
+        "symbol": 1240,
+        "name": "\u05e2\u05d9\u05df \u05d4\u05d1\u05e9\u05d5\u05e8",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.280895,
+            "lng": 34.443446
+        }
+    },
+    {
+        "symbol": 289,
+        "name": "\u05e2\u05d9\u05df \u05d4\u05de\u05e4\u05e8\u05e5",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.902581,
+            "lng": 35.09303999999999
+        }
+    },
+    {
+        "symbol": 383,
+        "name": "\u05e2\u05d9\u05df \u05d4\u05e0\u05e6\u05d9\"\u05d1",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.47071,
+            "lng": 35.501973
+        }
+    },
+    {
+        "symbol": 676,
+        "name": "\u05e2\u05d9\u05df \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.351722,
+            "lng": 34.403471
+        }
+    },
+    {
+        "symbol": 4503,
+        "name": "\u05e2\u05d9\u05df \u05d6\u05d9\u05d5\u05d5\u05df",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.09645,
+            "lng": 35.796313
+        }
+    },
+    {
+        "symbol": 1053,
+        "name": "\u05e2\u05d9\u05df \u05d7\u05e6\u05d1\u05d4",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.797209,
+            "lng": 35.24534
+        }
+    },
+    {
+        "symbol": 806,
+        "name": "\u05e2\u05d9\u05df \u05d9\u05d4\u05d1",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.6574941,
+            "lng": 35.2367899
+        }
+    },
+    {
+        "symbol": 813,
+        "name": "\u05e2\u05d9\u05df \u05d9\u05e2\u05e7\u05d1",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.009312,
+            "lng": 35.229024
+        }
+    },
+    {
+        "symbol": 4502,
+        "name": "\u05e2\u05d9\u05df \u05e7\u05e0\u05d9\u05d9\u05d0",
+        "score": 93,
+        "rate": 0.13999999999999999,
+        "ceiling": 259920,
+        "location": {
+            "lat": 33.2366802,
+            "lng": 35.7313062
+        }
+    },
+    {
+        "symbol": 1251,
+        "name": "\u05e2\u05d9\u05df \u05ea\u05de\u05e8",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.943594,
+            "lng": 35.37407
+        }
+    },
+    {
+        "symbol": 1187,
+        "name": "\u05e2\u05d9\u05e8 \u05d0\u05d5\u05d1\u05d5\u05ea",
+        "score": 25,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 30.808967,
+            "lng": 35.244389
+        }
+    },
+    {
+        "symbol": 7600,
+        "name": "\u05e2\u05db\u05d5",
+        "score": 43,
+        "rate": 0.12,
+        "ceiling": 186000,
+        "location": {
+            "lat": 32.933052,
+            "lng": 35.082678
+        }
+    },
+    {
+        "symbol": 1146,
+        "name": "\u05e2\u05dc\u05d5\u05de\u05d9\u05dd",
+        "score": 85,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.453049,
+            "lng": 34.514711
+        }
+    },
+    {
+        "symbol": 688,
+        "name": "\u05e2\u05dc\u05de\u05d4",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.05186,
+            "lng": 35.499636
+        }
+    },
+    {
+        "symbol": 1212,
+        "name": "\u05e2\u05de\u05d5\u05e7\u05d4",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.997669,
+            "lng": 35.524801
+        }
+    },
+    {
+        "symbol": 385,
+        "name": "\u05e2\u05de\u05d9\u05e2\u05d3",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.930354,
+            "lng": 35.54052100000001
+        }
+    },
+    {
+        "symbol": 318,
+        "name": "\u05e2\u05de\u05d9\u05e2\u05d5\u05d6",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.248463,
+            "lng": 34.413404
+        }
+    },
+    {
+        "symbol": 319,
+        "name": "\u05e2\u05de\u05d9\u05e8",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.17772610000001,
+            "lng": 35.6198305
+        }
+    },
+    {
+        "symbol": 708,
+        "name": "\u05e2\u05de\u05e7\u05d4",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.977664,
+            "lng": 35.161807
+        }
+    },
+    {
+        "symbol": 917,
+        "name": "\u05e2\u05e6\u05de\u05d5\u05df \u05e9\u05d2\u05d1",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.865802,
+            "lng": 35.252335
+        }
+    },
+    {
+        "symbol": 531,
+        "name": "\u05e2\u05e8\u05d0\u05d1\u05d4",
+        "score": 60,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.8530087,
+            "lng": 35.3361947
+        }
+    },
+    {
+        "symbol": 1246,
+        "name": "\u05e2\u05e8\u05d0\u05de\u05e9\u05d4*",
+        "score": 93,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.088834,
+            "lng": 35.228839
+        }
+    },
+    {
+        "symbol": 1335,
+        "name": "\u05e2\u05e8\u05d1 \u05d0\u05dc \u05e0\u05e2\u05d9\u05dd",
+        "score": 67,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.888073,
+            "lng": 35.290128
+        }
+    },
+    {
+        "symbol": 2560,
+        "name": "\u05e2\u05e8\u05d3",
+        "score": 68,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 31.26125469999999,
+            "lng": 35.2152179
+        }
+    },
+    {
+        "symbol": 1192,
+        "name": "\u05e2\u05e8\u05e2\u05e8\u05d4-\u05d1\u05e0\u05d2\u05d1",
+        "score": 75,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 31.1654944,
+            "lng": 35.0333713
+        }
+    },
+    {
+        "symbol": 3748,
+        "name": "\u05e2\u05ea\u05e0\u05d9\u05d0\u05dc",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.438812,
+            "lng": 35.028163
+        }
+    },
+    {
+        "symbol": 1151,
+        "name": "\u05e4\u05d0\u05e8\u05df",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.362646,
+            "lng": 35.155149
+        }
+    },
+    {
+        "symbol": 750,
+        "name": "\u05e4\u05d3\u05d5\u05d9\u05d9\u05dd",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.326275,
+            "lng": 34.612069
+        }
+    },
+    {
+        "symbol": 1104,
+        "name": "\u05e4\u05d5\u05e8\u05d9\u05d9\u05d4 - \u05db\u05e4\u05e8 \u05e2\u05d1\u05d5\u05d3\u05d4",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.719846,
+            "lng": 35.545563
+        }
+    },
+    {
+        "symbol": 1105,
+        "name": "\u05e4\u05d5\u05e8\u05d9\u05d9\u05d4 - \u05e0\u05d5\u05d5\u05d4 \u05e2\u05d5\u05d1\u05d3",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.743763,
+            "lng": 35.53811
+        }
+    },
+    {
+        "symbol": 1313,
+        "name": "\u05e4\u05d5\u05e8\u05d9\u05d9\u05d4 \u05e2\u05d9\u05dc\u05d9\u05ea",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.732736,
+            "lng": 35.546162
+        }
+    },
+    {
+        "symbol": 749,
+        "name": "\u05e4\u05d8\u05d9\u05e9",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.3259948,
+            "lng": 34.563565
+        }
+    },
+    {
+        "symbol": 1185,
+        "name": "\u05e4\u05dc\u05da",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.93367,
+            "lng": 35.23361
+        }
+    },
+    {
+        "symbol": 3723,
+        "name": "\u05e4\u05e0\u05d9 \u05d7\u05d1\u05e8",
+        "score": 64,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.487074,
+            "lng": 35.1651
+        }
+    },
+    {
+        "symbol": 535,
+        "name": "\u05e4\u05e1\u05d5\u05d8\u05d4",
+        "score": 70,
+        "rate": 0.13999999999999999,
+        "ceiling": 259920,
+        "location": {
+            "lat": 33.04782,
+            "lng": 35.308827
+        }
+    },
+    {
+        "symbol": 2059,
+        "name": "\u05e4\u05e2\u05de\u05d9 \u05ea\u05e9\"\u05d6",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.437967,
+            "lng": 34.692875
+        }
+    },
+    {
+        "symbol": 3615,
+        "name": "\u05e4\u05e6\u05d0\u05dc",
+        "score": 62,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.043492,
+            "lng": 35.443753
+        }
+    },
+    {
+        "symbol": 536,
+        "name": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df (\u05d1\u05d5\u05e7\u05d9\u05d9\u05e2\u05d4)",
+        "score": 68,
+        "rate": 0.13999999999999999,
+        "ceiling": 259920,
+        "location": {
+            "lat": 32.9787353,
+            "lng": 35.33336329999999
+        }
+    },
+    {
+        "symbol": 281,
+        "name": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df \u05d7\u05d3\u05e9\u05d4",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.982195,
+            "lng": 35.323408
+        }
+    },
+    {
+        "symbol": 599,
+        "name": "\u05e4\u05e8\u05d5\u05d3",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.933066,
+            "lng": 35.434318
+        }
+    },
+    {
+        "symbol": 1231,
+        "name": "\u05e4\u05e8\u05d9 \u05d2\u05df",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.222015,
+            "lng": 34.355936
+        }
+    },
+    {
+        "symbol": 413,
+        "name": "\u05e6\u05d0\u05dc\u05d9\u05dd",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.203909,
+            "lng": 34.533359
+        }
+    },
+    {
+        "symbol": 1180,
+        "name": "\u05e6\u05d1\u05d9\u05d4",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.8894,
+            "lng": 35.3314
+        }
+    },
+    {
+        "symbol": 1213,
+        "name": "\u05e6\u05d1\u05e2\u05d5\u05df",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.026363,
+            "lng": 35.416723
+        }
+    },
+    {
+        "symbol": 1136,
+        "name": "\u05e6\u05d5\u05d7\u05e8",
+        "score": 45,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.23717,
+            "lng": 34.426444
+        }
+    },
+    {
+        "symbol": 1150,
+        "name": "\u05e6\u05d5\u05e4\u05e8",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.559394,
+            "lng": 35.181474
+        }
+    },
+    {
+        "symbol": 1262,
+        "name": "\u05e6\u05d5\u05e7\u05d9\u05dd",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 30.491551,
+            "lng": 35.165443
+        }
+    },
+    {
+        "symbol": 774,
+        "name": "\u05e6\u05d5\u05e8\u05d9\u05d0\u05dc",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.006488,
+            "lng": 35.31479
+        }
+    },
+    {
+        "symbol": 1221,
+        "name": "\u05e6\u05d5\u05e8\u05d9\u05ea",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.902351,
+            "lng": 35.249106
+        }
+    },
+    {
+        "symbol": 8000,
+        "name": "\u05e6\u05e4\u05ea",
+        "score": 72,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.964648,
+            "lng": 35.495997
+        }
+    },
+    {
+        "symbol": 4025,
+        "name": "\u05e7\u05d3\u05de\u05ea \u05e6\u05d1\u05d9",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 33.029485,
+            "lng": 35.69774400000001
+        }
+    },
+    {
+        "symbol": 1211,
+        "name": "\u05e7\u05d3\u05e8\u05d9\u05dd",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.898886,
+            "lng": 35.471565
+        }
+    },
+    {
+        "symbol": 1179,
+        "name": "\u05e7\u05d5\u05e8\u05e0\u05d9\u05ea",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.84441200000001,
+            "lng": 35.251883
+        }
+    },
+    {
+        "symbol": 1052,
+        "name": "\u05e7\u05d8\u05d5\u05e8\u05d4",
+        "score": 86,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 29.97088699999999,
+            "lng": 35.06135500000001
+        }
+    },
+    {
+        "symbol": 414,
+        "name": "\u05e7\u05dc\u05d7\u05d9\u05dd",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.449795,
+            "lng": 34.679092
+        }
+    },
+    {
+        "symbol": 3601,
+        "name": "\u05e7\u05dc\u05d9\u05d4",
+        "score": 57,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.749896,
+            "lng": 35.466131
+        }
+    },
+    {
+        "symbol": 4024,
+        "name": "\u05e7\u05dc\u05e2",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 33.131601,
+            "lng": 35.69039
+        }
+    },
+    {
+        "symbol": 1347,
+        "name": "\u05e7\u05e6\u05e8 \u05d0-\u05e1\u05e8",
+        "score": 75,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.083329,
+            "lng": 34.979579
+        }
+    },
+    {
+        "symbol": 4100,
+        "name": "\u05e7\u05e6\u05e8\u05d9\u05df",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.990998,
+            "lng": 35.689865
+        }
+    },
+    {
+        "symbol": 3611,
+        "name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d0\u05e8\u05d1\u05e2",
+        "score": 60,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.529326,
+            "lng": 35.115625
+        }
+    },
+    {
+        "symbol": 2800,
+        "name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4",
+        "score": 76,
+        "rate": 0.2,
+        "ceiling": 259920,
+        "location": {
+            "lat": 33.20809,
+            "lng": 35.5699622
+        }
+    },
+    {
+        "symbol": 4006,
+        "name": "\u05e7\u05e9\u05ea",
+        "score": 93,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": null
+    },
+    {
+        "symbol": 543,
+        "name": "\u05e8\u05d0\u05de\u05d4",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.9374389,
+            "lng": 35.366515
+        }
+    },
+    {
+        "symbol": 1334,
+        "name": "\u05e8\u05d0\u05e1 \u05d0\u05dc-\u05e2\u05d9\u05df",
+        "score": 60,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.915734,
+            "lng": 35.372703
+        }
+    },
+    {
+        "symbol": 26,
+        "name": "\u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.9690188,
+            "lng": 35.5428591
+        }
+    },
+    {
+        "symbol": 354,
+        "name": "\u05e8\u05d1\u05d9\u05d1\u05d9\u05dd",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.045195,
+            "lng": 34.72108600000001
+        }
+    },
+    {
+        "symbol": 1225,
+        "name": "\u05e8\u05d1\u05d9\u05d3",
+        "score": 40,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.850619,
+            "lng": 35.464074
+        }
+    },
+    {
+        "symbol": 390,
+        "name": "\u05e8\u05d2\u05d1\u05d4",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.977493,
+            "lng": 35.099129
+        }
+    },
+    {
+        "symbol": 1161,
+        "name": "\u05e8\u05d4\u05d8",
+        "score": 57,
+        "rate": 0.16,
+        "ceiling": 226560,
+        "location": {
+            "lat": 31.3951375,
+            "lng": 34.7533591
+        }
+    },
+    {
+        "symbol": 362,
+        "name": "\u05e8\u05d5\u05d7\u05de\u05d4",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.497378,
+            "lng": 34.705165
+        }
+    },
+    {
+        "symbol": 3619,
+        "name": "\u05e8\u05d5\u05e2\u05d9",
+        "score": 62,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.24751,
+            "lng": 35.48948
+        }
+    },
+    {
+        "symbol": 3782,
+        "name": "\u05e8\u05d5\u05ea\u05dd",
+        "score": 86,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.3366,
+            "lng": 35.518576
+        }
+    },
+    {
+        "symbol": 854,
+        "name": "\u05e8\u05d7\u05d5\u05d1",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.451099,
+            "lng": 35.489598
+        }
+    },
+    {
+        "symbol": 540,
+        "name": "\u05e8\u05d9\u05d7\u05d0\u05e0\u05d9\u05d9\u05d4",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.049922,
+            "lng": 35.487062
+        }
+    },
+    {
+        "symbol": 4702,
+        "name": "\u05e8\u05de\u05d5\u05ea",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.850365,
+            "lng": 35.665245
+        }
+    },
+    {
+        "symbol": 372,
+        "name": "\u05e8\u05de\u05d5\u05ea \u05e0\u05e4\u05ea\u05dc\u05d9",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.102354,
+            "lng": 35.553313
+        }
+    },
+    {
+        "symbol": 4029,
+        "name": "\u05e8\u05de\u05ea \u05d8\u05e8\u05d0\u05de\u05e4",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 4701,
+        "name": "\u05e8\u05de\u05ea \u05de\u05d2\u05e9\u05d9\u05de\u05d9\u05dd",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.84406600000001,
+            "lng": 35.80658
+        }
+    },
+    {
+        "symbol": 789,
+        "name": "\u05e8\u05e0\u05df",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.33871,
+            "lng": 34.600358
+        }
+    },
+    {
+        "symbol": 713,
+        "name": "\u05e8\u05e2\u05d9\u05dd",
+        "score": 76,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.386159,
+            "lng": 34.458823
+        }
+    },
+    {
+        "symbol": 1228,
+        "name": "\u05e8\u05e7\u05e4\u05ea",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 1260,
+        "name": "\u05e8\u05ea\u05de\u05d9\u05dd",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.05401,
+            "lng": 34.690902
+        }
+    },
+    {
+        "symbol": 324,
+        "name": "\u05e9\u05d0\u05e8 \u05d9\u05e9\u05d5\u05d1",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.2263492,
+            "lng": 35.6468357
+        }
+    },
+    {
+        "symbol": 282,
+        "name": "\u05e9\u05d1\u05d9 \u05e6\u05d9\u05d5\u05df",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.982079,
+            "lng": 35.083005
+        }
+    },
+    {
+        "symbol": 1286,
+        "name": "\u05e9\u05d2\u05d1-\u05e9\u05dc\u05d5\u05dd",
+        "score": 67,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 31.19711719999999,
+            "lng": 34.8383843
+        }
+    },
+    {
+        "symbol": 304,
+        "name": "\u05e9\u05d3\u05d4 \u05d0\u05dc\u05d9\u05d4\u05d5",
+        "score": 93,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.441882,
+            "lng": 35.513803
+        }
+    },
+    {
+        "symbol": 861,
+        "name": "\u05e9\u05d3\u05d4 \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.04647,
+            "lng": 35.56525
+        }
+    },
+    {
+        "symbol": 885,
+        "name": "\u05e9\u05d3\u05d4 \u05d1\u05d5\u05e7\u05e8",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 30.873611,
+            "lng": 34.793098
+        }
+    },
+    {
+        "symbol": 36,
+        "name": "\u05e9\u05d3\u05d4 \u05d3\u05d5\u05d3",
+        "score": 27,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.577476,
+            "lng": 34.683443
+        }
+    },
+    {
+        "symbol": 259,
+        "name": "\u05e9\u05d3\u05d4 \u05e0\u05d7\u05d5\u05dd",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.525068,
+            "lng": 35.480855
+        }
+    },
+    {
+        "symbol": 329,
+        "name": "\u05e9\u05d3\u05d4 \u05e0\u05d7\u05de\u05d9\u05d4",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.188234,
+            "lng": 35.62307
+        }
+    },
+    {
+        "symbol": 1058,
+        "name": "\u05e9\u05d3\u05d4 \u05e0\u05d9\u05e6\u05df",
+        "score": 45,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.230035,
+            "lng": 34.418363
+        }
+    },
+    {
+        "symbol": 2049,
+        "name": "\u05e9\u05d3\u05d4 \u05e6\u05d1\u05d9",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.448747,
+            "lng": 34.713234
+        }
+    },
+    {
+        "symbol": 1223,
+        "name": "\u05e9\u05d3\u05d9 \u05d0\u05d1\u05e8\u05d4\u05dd",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.211594,
+            "lng": 34.335692
+        }
+    },
+    {
+        "symbol": 2057,
+        "name": "\u05e9\u05d3\u05d9 \u05ea\u05e8\u05d5\u05de\u05d5\u05ea",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.440898,
+            "lng": 35.484204
+        }
+    },
+    {
+        "symbol": 3578,
+        "name": "\u05e9\u05d3\u05de\u05d5\u05ea \u05de\u05d7\u05d5\u05dc\u05d4",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.347731,
+            "lng": 35.530587
+        }
+    },
+    {
+        "symbol": 1031,
+        "name": "\u05e9\u05d3\u05e8\u05d5\u05ea",
+        "score": 58,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.52269399999999,
+            "lng": 34.595581
+        }
+    },
+    {
+        "symbol": 761,
+        "name": "\u05e9\u05d5\u05d1\u05d4",
+        "score": 68,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.44995,
+            "lng": 34.545496
+        }
+    },
+    {
+        "symbol": 394,
+        "name": "\u05e9\u05d5\u05d1\u05dc",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.413734,
+            "lng": 34.745814
+        }
+    },
+    {
+        "symbol": 614,
+        "name": "\u05e9\u05d5\u05de\u05e8\u05d4",
+        "score": 65,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": null
+    },
+    {
+        "symbol": 1265,
+        "name": "\u05e9\u05d5\u05de\u05e8\u05d9\u05d9\u05d4",
+        "score": 60,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.432154,
+            "lng": 34.88409499999999
+        }
+    },
+    {
+        "symbol": 415,
+        "name": "\u05e9\u05d5\u05e7\u05d3\u05d4",
+        "score": 62,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.422098,
+            "lng": 34.524383
+        }
+    },
+    {
+        "symbol": 1235,
+        "name": "\u05e9\u05d5\u05e8\u05e9\u05d9\u05dd",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.892651,
+            "lng": 35.25856
+        }
+    },
+    {
+        "symbol": 527,
+        "name": "\u05e9\u05d6\u05d5\u05e8",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.933936,
+            "lng": 35.354523
+        }
+    },
+    {
+        "symbol": 1266,
+        "name": "\u05e9\u05d7\u05e8\u05d5\u05ea",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 29.904093,
+            "lng": 34.999173
+        }
+    },
+    {
+        "symbol": 865,
+        "name": "\u05e9\u05d9\u05d1\u05d5\u05dc\u05d9\u05dd",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.396398,
+            "lng": 34.608144
+        }
+    },
+    {
+        "symbol": 1267,
+        "name": "\u05e9\u05d9\u05d8\u05d9\u05dd",
+        "score": 11,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 30.176442,
+            "lng": 35.016722
+        }
+    },
+    {
+        "symbol": 658,
+        "name": "\u05e9\u05d9\u05d9\u05d7' \u05d3\u05e0\u05d5\u05df",
+        "score": 60,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.9938295,
+            "lng": 35.14856839999999
+        }
+    },
+    {
+        "symbol": 1160,
+        "name": "\u05e9\u05db\u05e0\u05d9\u05d4",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.849186,
+            "lng": 35.246701
+        }
+    },
+    {
+        "symbol": 873,
+        "name": "\u05e9\u05dc\u05d5\u05d5\u05d4",
+        "score": 33,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.7676565,
+            "lng": 35.1874158
+        }
+    },
+    {
+        "symbol": 1373,
+        "name": "\u05e9\u05dc\u05d5\u05d5\u05d4 \u05d1\u05de\u05d3\u05d1\u05e8",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 30.767942,
+            "lng": 35.2772213
+        }
+    },
+    {
+        "symbol": 812,
+        "name": "\u05e9\u05dc\u05d5\u05de\u05d9",
+        "score": 62,
+        "rate": 0.2,
+        "ceiling": 259920,
+        "location": {
+            "lat": 33.072609,
+            "lng": 35.145945
+        }
+    },
+    {
+        "symbol": 1364,
+        "name": "\u05e9\u05dc\u05d5\u05de\u05d9\u05ea",
+        "score": 76,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.1673893,
+            "lng": 34.3033322
+        }
+    },
+    {
+        "symbol": 366,
+        "name": "\u05e9\u05de\u05d9\u05e8",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.166754,
+            "lng": 35.659949
+        }
+    },
+    {
+        "symbol": 3784,
+        "name": "\u05e9\u05de\u05e2\u05d4",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.387342,
+            "lng": 35.012699
+        }
+    },
+    {
+        "symbol": 432,
+        "name": "\u05e9\u05de\u05e8\u05ea",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.95148,
+            "lng": 35.094955
+        }
+    },
+    {
+        "symbol": 1287,
+        "name": "\u05e9\u05e0\u05d9",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.355797,
+            "lng": 35.070097
+        }
+    },
+    {
+        "symbol": 1132,
+        "name": "\u05e9\u05e0\u05d9\u05e8",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 33.240338,
+            "lng": 35.677015
+        }
+    },
+    {
+        "symbol": 538,
+        "name": "\u05e9\u05e2\u05d1",
+        "score": 64,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.890853,
+            "lng": 35.2404921
+        }
+    },
+    {
+        "symbol": 4009,
+        "name": "\u05e9\u05e2\u05dc",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 33.11653,
+            "lng": 35.718816
+        }
+    },
+    {
+        "symbol": 264,
+        "name": "\u05e9\u05e2\u05e8 \u05d4\u05d2\u05d5\u05dc\u05df",
+        "score": 76,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.686919,
+            "lng": 35.604656
+        }
+    },
+    {
+        "symbol": 846,
+        "name": "\u05e9\u05e4\u05e8",
+        "score": 51,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 32.944553,
+            "lng": 35.437848
+        }
+    },
+    {
+        "symbol": 1233,
+        "name": "\u05e9\u05e7\u05e3",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.51489,
+            "lng": 34.937318
+        }
+    },
+    {
+        "symbol": 398,
+        "name": "\u05e9\u05e8\u05e9\u05e8\u05ea",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 1045,
+        "name": "\u05e9\u05ea\u05d5\u05dc\u05d4",
+        "score": 70,
+        "rate": 0.13999999999999999,
+        "ceiling": 219960,
+        "location": {
+            "lat": 33.085919,
+            "lng": 35.315627
+        }
+    },
+    {
+        "symbol": 2062,
+        "name": "\u05ea\u05d0\u05e9\u05d5\u05e8",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.371709,
+            "lng": 34.643547
+        }
+    },
+    {
+        "symbol": 2061,
+        "name": "\u05ea\u05d3\u05d4\u05e8",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": null
+    },
+    {
+        "symbol": 1172,
+        "name": "\u05ea\u05d5\u05d1\u05dc",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 32.928495,
+            "lng": 35.245675
+        }
+    },
+    {
+        "symbol": 1083,
+        "name": "\u05ea\u05d5\u05e9\u05d9\u05d9\u05d4",
+        "score": 68,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.432895,
+            "lng": 34.541314
+        }
+    },
+    {
+        "symbol": 719,
+        "name": "\u05ea\u05dc \u05e7\u05e6\u05d9\u05e8",
+        "score": 65,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.706396,
+            "lng": 35.61786
+        }
+    },
+    {
+        "symbol": 1054,
+        "name": "\u05ea\u05dc \u05e9\u05d1\u05e2",
+        "score": 67,
+        "rate": 0.18,
+        "ceiling": 259920,
+        "location": {
+            "lat": 31.2450731,
+            "lng": 34.8603822
+        }
+    },
+    {
+        "symbol": 1283,
+        "name": "\u05ea\u05dc \u05ea\u05d0\u05d5\u05de\u05d9\u05dd",
+        "score": 70,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 32.442537,
+            "lng": 35.496409
+        }
+    },
+    {
+        "symbol": 3719,
+        "name": "\u05ea\u05dc\u05dd",
+        "score": 53,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.563051,
+            "lng": 35.03124
+        }
+    },
+    {
+        "symbol": 1051,
+        "name": "\u05ea\u05dc\u05de\u05d9 \u05d0\u05dc\u05d9\u05d4\u05d5",
+        "score": 45,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.229611,
+            "lng": 34.429114
+        }
+    },
+    {
+        "symbol": 2050,
+        "name": "\u05ea\u05dc\u05de\u05d9 \u05d1\u05d9\u05dc\"\u05d5",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.438055,
+            "lng": 34.644823
+        }
+    },
+    {
+        "symbol": 1237,
+        "name": "\u05ea\u05dc\u05de\u05d9 \u05d9\u05d5\u05e1\u05e3",
+        "score": 70,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.199958,
+            "lng": 34.363751
+        }
+    },
+    {
+        "symbol": 814,
+        "name": "\u05ea\u05dc\u05de\u05d9\u05dd",
+        "score": 33,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.563416,
+            "lng": 34.67199799999999
+        }
+    },
+    {
+        "symbol": 709,
+        "name": "\u05ea\u05e4\u05e8\u05d7",
+        "score": 67,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.324471,
+            "lng": 34.679236
+        }
+    },
+    {
+        "symbol": 665,
+        "name": "\u05ea\u05e7\u05d5\u05de\u05d4",
+        "score": 62,
+        "rate": 0.2,
+        "ceiling": 267840,
+        "location": {
+            "lat": 31.448536,
+            "lng": 34.578085
+        }
+    },
+    {
+        "symbol": 1346,
+        "name": "\u05ea\u05e8\u05d1\u05d9\u05df \u05d0-\u05e6\u05d0\u05e0\u05e2 (\u05d9\u05d9\u05e9\u05d5\u05d1)*",
+        "score": 67,
+        "rate": 0.12,
+        "ceiling": 213240,
+        "location": {
+            "lat": 31.345481,
+            "lng": 34.739126
+        }
+    },
+    {
+        "symbol": 1365,
+        "name": "\u05d0\u05dc\u05d9\u05d0\u05d1",
+        "score": 32,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.530203,
+            "lng": 34.928414
+        }
+    },
+    {
+        "symbol": 1368,
+        "name": "\u05d1\u05e0\u05d9 \u05d3\u05e7\u05dc\u05d9\u05dd",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.517188,
+            "lng": 34.917033
+        }
+    },
+    {
+        "symbol": 1369,
+        "name": "\u05e0\u05d8\u05e2",
+        "score": 37,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.477893,
+            "lng": 34.927774
+        }
+    },
+    {
+        "symbol": 3777,
+        "name": "\u05e1\u05e0\u05e1\u05e0\u05d4",
+        "score": 43,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.36176499999999,
+            "lng": 34.901003
+        }
+    },
+    {
+        "symbol": 1341,
+        "name": "\u05e8\u05d5\u05d7 \u05de\u05d3\u05d1\u05e8",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 30.98153499999999,
+            "lng": 34.733883
+        }
+    },
+    {
+        "symbol": 1374,
+        "name": "\u05db\u05e8\u05de\u05d9 \u05e7\u05d8\u05d9\u05e3",
+        "score": 27,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.537825,
+            "lng": 34.911993
+        }
+    },
+    {
+        "symbol": 1377,
+        "name": "\u05e9\u05d1\u05d9 \u05d3\u05e8\u05d5\u05dd",
+        "score": 53,
+        "rate": 0.1,
+        "ceiling": 180000,
+        "location": {
+            "lat": 31.46637699999999,
+            "lng": 34.638576
+        }
+    },
+    {
+        "symbol": 1378,
+        "name": "\u05e9\u05d9\u05d6\u05e3",
+        "score": 45,
+        "rate": 0.07,
+        "ceiling": 146640,
+        "location": {
+            "lat": 31.001742,
+            "lng": 34.765444
+        }
+    }
+]
