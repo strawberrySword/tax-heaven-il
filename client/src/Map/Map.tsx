@@ -1,6 +1,6 @@
 import "leaflet/dist/leaflet.css";
-import { CircleMarker, MapContainer, Popup, TileLayer } from "react-leaflet";
-import { useCities } from "../hooks/useCitiesData";
+import { MapContainer, TileLayer } from "react-leaflet";
+import { useCities } from "../hooks/useCities";
 import { City } from "../City";
 
 export const Map = () => {
