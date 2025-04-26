@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import {
   AppBar,
   Toolbar,
@@ -33,11 +33,11 @@ export const TopNav = ({
     setAnchorEl(null);
   };
 
-  const handleIncomeChange = (e) => {
-    setIncome(e.target.value);
+  const handleIncomeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setIncome(Number(e.target.value));
   };
 
-  const handleRateChange = (event: Event, newValue: number | number[]) => {
+  const handleRateChange = (_: Event, newValue: number | number[]) => {
     if (Array.isArray(newValue) && newValue.length === 2) {
       setRateRange(newValue as [number, number]);
     }
