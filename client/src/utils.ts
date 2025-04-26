@@ -3,10 +3,6 @@ export const calculateAnnualSavings = (
   monthlyIncome: number,
   ceiling: number
 ): number => {
-  console.log(
-    `Calculating annual savings with rate: ${rate}, monthlyIncome: ${monthlyIncome}, ceiling: ${ceiling}`
-  );
-
   const annualIncome = monthlyIncome * 12;
   const annualTax = calculateTax(annualIncome);
   const annualTaxSavings = Math.min(annualIncome, ceiling) * rate;
