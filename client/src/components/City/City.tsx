@@ -1,12 +1,14 @@
 import React from "react";
 import { CircleMarker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
+import { calculateAnnualSavings } from "../../utils";
 
 type Props = {
   position: [number, number];
   rate: number;
-  exempt_limit: number;
+  ceiling: number;
   name: string;
+  income: number;
 };
 
 const colors = {
@@ -22,7 +24,13 @@ const highRate = 0.15;
 
 const epsilon = 0.0001;
 
-export const City: React.FC<Props> = ({ position, name, rate }) => {
+export const City: React.FC<Props> = ({
+  position,
+  name,
+  rate,
+  income,
+  ceiling,
+}: Props) => {
   const getColor = (rate: number) => {
     if (rate <= lowRate + epsilon) {
       return colors.low;
@@ -33,13 +41,27 @@ export const City: React.FC<Props> = ({ position, name, rate }) => {
     }
     return colors.perfect;
   };
+
+  const savings = calculateAnnualSavings(rate, income, ceiling);
   return (
     <CircleMarker center={position} radius={100 * rate} color={getColor(rate)}>
       <Popup>
         {name}
         <hr />
-        {rate * 100} %
+        Rate: {rate * 100}%
         <br />
+        {income > 0 ? (
+          <>
+            {" "}
+            Yearly Savings:{" "}
+            {savings.toLocaleString("he-IL", {
+              style: "currency",
+              currency: "ILS",
+            })}
+          </>
+        ) : (
+          <></>
+        )}
       </Popup>
     </CircleMarker>
   );

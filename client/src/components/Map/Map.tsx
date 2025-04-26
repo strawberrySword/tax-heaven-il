@@ -1,14 +1,17 @@
 import "leaflet/dist/leaflet.css";
 import { MapContainer, TileLayer } from "react-leaflet";
-import { useCities } from "../hooks/useCities";
-import { City } from "../City";
+import { useCities } from "../../hooks/useCities";
+import { City } from "../../components/City";
 
-export const Map = () => {
+type Props = {
+  income: number;
+  rateRange: [number, number];
+};
+export const Map = ({ income, rateRange }: Props) => {
   // tel aviv coordinates
   const center: [number, number] = [32.0853, 34.7818];
 
   const { cities } = useCities();
-  console.log("cities", cities ? cities[0]?.location : "No cities available");
 
   return (
     <MapContainer
@@ -24,14 +27,20 @@ export const Map = () => {
 
       {cities ? (
         cities
-          ?.filter((city) => city.location !== null)
+          ?.filter(
+            (city) =>
+              city.location !== null &&
+              city.rate * 100 <= rateRange[1] &&
+              city.rate * 100 >= rateRange[0]
+          )
           .map((city) => (
             <City
               key={city.name}
               position={[city.location.lat, city.location.lng]}
               name={city.name}
               rate={city.rate}
-              exempt_limit={city.ceiling}
+              ceiling={city.ceiling}
+              income={income}
             />
           ))
       ) : (
